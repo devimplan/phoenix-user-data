@@ -1,1 +1,84 @@
-{"Id":null,"DocumentKey":"0a28f956e00a53035e4a5d15cf794a35529ea4a0","Project":{"Id":2,"DocumentKey":null,"Title":"Service Int Test Project","IndustrySetId":2,"CommoditySetId":1,"HouseholdSetId":1,"OwnerId":0,"HasImpacts":false,"HasResults":false,"LastOpened":null,"LastImpactRunId":null,"UserWhoCreatedId":null,"UserWhoUpdatedId":null,"CreatedDate":"2018-06-14T14:20:38.5878492-05:00","LastUpdatedDate":null,"IsDeleted":false,"DeletedDate":null,"IsArchived":false,"ArchivedDate":null},"Analyses":[],"Impact":{"Name":"Impact Name","ProjectId":0,"Events":[{"SpecificationCode":0,"EventType":1,"Output":10000.0,"Employment":null,"EmployeeCompensation":null,"ProprietorIncome":null,"Margins":null,"GdpDeflator":null,"OutputDeflator":null,"LocalPurchasePercentage":1.0,"OverideValidationWarning":false,"HouseholdIncome":null,"Id":1,"ProjectId":null,"OwnerId":0,"Title":"Event 1","DocumentKey":null,"UserWhoCreatedId":null,"UserWhoUpdatedId":0,"CreatedDate":null,"LastUpdatedDate":"2018-06-14T19:20:39.6243197Z","IsDeleted":false,"DeletedDate":null,"IsArchived":false,"ArchivedDate":null}],"Groups":[{"ModelId":null,"Year":2015,"Events":[],"AnalysisId":null,"Id":null,"ProjectId":null,"OwnerId":0,"Title":"Group 1","DocumentKey":null,"UserWhoCreatedId":null,"UserWhoUpdatedId":0,"CreatedDate":null,"LastUpdatedDate":"2018-06-14T19:20:39.624518Z","IsDeleted":false,"DeletedDate":null,"IsArchived":false,"ArchivedDate":null}]},"IsArchived":false,"ArchivedDateTime":null,"SharedDatetimes":[],"LastOpenedDate":"0001-01-01T00:00:00"}
+{
+  "Id": null,
+  "DocumentKey": "0a28f956e00a53035e4a5d15cf794a35529ea4a0",
+  "Project": {
+    "Id": 2,
+    "DocumentKey": null,
+    "Title": "Service Int Test Project",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 0,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": null,
+    "UserWhoUpdatedId": null,
+    "CreatedDate": "2018-06-14T14:20:38.5878492-05:00",
+    "LastUpdatedDate": null,
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact Name",
+    "ProjectId": 0,
+    "Events": [
+      {
+        "SpecificationCode": 0,
+        "EventType": 1,
+        "Output": 10000.0,
+        "Employment": null,
+        "EmployeeCompensation": null,
+        "ProprietorIncome": null,
+        "Margins": null,
+        "GdpDeflator": null,
+        "OutputDeflator": null,
+        "LocalPurchasePercentage": 1.0,
+        "OverideValidationWarning": false,
+        "HouseholdIncome": null,
+        "Id": 1,
+        "ProjectId": null,
+        "OwnerId": 0,
+        "Title": "Event 1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 0,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-06-14T19:20:39.6243197Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 2015,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": null,
+        "ProjectId": null,
+        "OwnerId": 0,
+        "Title": "Group 1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 0,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-06-14T19:20:39.624518Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
