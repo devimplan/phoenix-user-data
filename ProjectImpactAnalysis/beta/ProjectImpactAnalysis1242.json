@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1242,
+    "DocumentKey": "",
+    "Title": "Test-Exp",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 1,
+    "UserWhoUpdatedId": 1,
+    "CreatedDate": "2018-06-18T06:27:47",
+    "LastUpdatedDate": "2018-06-18T06:27:47",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1242,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 176,
+        "Year": 38,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2227,
+        "ProjectId": 1242,
+        "OwnerId": 0,
+        "Title": "Wyoming group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 1,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": "2018-06-18T06:27:47.1988129Z",
+        "LastUpdatedDate": "2018-06-18T06:27:47.1988134Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
