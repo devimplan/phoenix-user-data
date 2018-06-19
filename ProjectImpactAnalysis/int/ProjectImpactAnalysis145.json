@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "04d95c6d749f0f530960e5a094e5a2715255ec35",
+  "DocumentKey": "36a73ff609f6709aa34edf5eaa3fb652b3371193",
   "Project": {
     "Id": 145,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-19T19:07:24.7836989Z",
+        "LastUpdatedDate": "2018-06-19T19:10:12.7778955Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 145,
         "Year": 38,
         "Events": [],
         "AnalysisId": null,
@@ -69,7 +69,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-19T19:03:34.8868283Z",
-        "LastUpdatedDate": "2018-06-19T19:07:24.7836989Z",
+        "LastUpdatedDate": "2018-06-19T19:10:12.7778958Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
