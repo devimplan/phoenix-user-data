@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "99651734c1d73b90e81359655350b565c78bdd99",
+  "DocumentKey": "d559716e5b7ee3841a72e093c269b47bfda3eaaf",
   "Project": {
     "Id": 1273,
     "DocumentKey": null,
@@ -26,7 +26,35 @@
   "Impact": {
     "Name": null,
     "ProjectId": 1273,
-    "Events": [],
+    "Events": [
+      {
+        "SpecificationCode": 139,
+        "EventType": 1,
+        "Output": 1000000.0,
+        "Employment": null,
+        "EmployeeCompensation": null,
+        "ProprietorIncome": null,
+        "Margins": null,
+        "GdpDeflator": null,
+        "OutputDeflator": null,
+        "LocalPurchasePercentage": 1.0,
+        "OverideValidationWarning": false,
+        "HouseholdIncome": null,
+        "Id": 2206,
+        "ProjectId": 1273,
+        "OwnerId": 0,
+        "Title": "Beta Event LJV",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-06-20T15:49:15.0451071Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ],
     "Groups": [
       {
         "ModelId": 120,
@@ -41,7 +69,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-20T15:47:13.9607909Z",
-        "LastUpdatedDate": "2018-06-20T15:48:55.5405263Z",
+        "LastUpdatedDate": "2018-06-20T15:49:15.0451077Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
