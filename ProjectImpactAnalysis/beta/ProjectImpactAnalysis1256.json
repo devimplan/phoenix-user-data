@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "7d9291fc623c1db81b5c7a061fc19ce743fb3521",
+  "DocumentKey": "4713c634e2cb737cb8a2a993cf2cb3f462cec07c",
   "Project": {
     "Id": 1256,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": 130,
+        "ModelId": 206,
         "Year": 38,
         "Events": [],
         "AnalysisId": null,
         "Id": 2251,
         "ProjectId": 1256,
         "OwnerId": 0,
-        "Title": "North Carolina group",
+        "Title": "Washington-MN",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-19T23:21:18.3802701Z",
-        "LastUpdatedDate": "2018-06-19T23:21:22.4529158Z",
+        "LastUpdatedDate": "2018-06-20T07:18:02.0052385Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
