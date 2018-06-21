@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "226d4aeb19bc64a85ba17d8fdf7bb20dde64ca2f",
+  "DocumentKey": "7a1d5820b3e36b3f6bb113ebbd897d22112ed3c5",
   "Project": {
     "Id": 149,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-20T17:58:55.6823403Z",
+        "LastUpdatedDate": "2018-06-21T15:15:24.5882562Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
       {
         "SpecificationCode": 139,
         "EventType": 1,
-        "Output": 1111111.0,
+        "Output": 11111000.0,
         "Employment": null,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-20T17:58:55.6823403Z",
+        "LastUpdatedDate": "2018-06-21T15:15:24.5882597Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -124,7 +124,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-20T15:24:22.0276304Z",
-        "LastUpdatedDate": "2018-06-20T17:58:55.6823414Z",
+        "LastUpdatedDate": "2018-06-21T15:15:24.5884661Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
