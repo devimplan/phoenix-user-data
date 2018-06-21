@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "d28fa99f25f668a891eab7b0bf4ab88b54acadbf",
+  "DocumentKey": "2eefa9d25ee86ee390db8f624d2ba07bbef8e051",
   "Project": {
     "Id": 162,
     "DocumentKey": null,
@@ -48,62 +48,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-21T21:58:33.4063834Z",
+        "LastUpdatedDate": "2018-06-21T22:09:26.9730411Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 145,
-        "Year": 38,
-        "Events": [
-          {
-            "SpecificationCode": 139,
-            "EventType": 1,
-            "Output": 50000.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": null,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 254,
-            "ProjectId": 162,
-            "OwnerId": 0,
-            "Title": "More Windows",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "Id": 251,
-        "ProjectId": 162,
-        "OwnerId": 0,
-        "Title": "new",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 1,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-21T21:58:33.4063838Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
