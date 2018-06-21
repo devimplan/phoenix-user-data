@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "c13863d3933cdc114148f3bd33c566f2810a0616",
+  "DocumentKey": "15e4c78ba23287c7bcca197ef1d271ceb0fbc4c0",
   "Project": {
     "Id": 1262,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1262,
     "Events": [
       {
-        "SpecificationCode": 532,
+        "SpecificationCode": 1,
         "EventType": 1,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-21T12:34:56.9570619Z",
+        "LastUpdatedDate": "2018-06-21T12:35:21.5737181Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,9 +57,37 @@
     ],
     "Groups": [
       {
-        "ModelId": 220,
+        "ModelId": 206,
         "Year": 38,
-        "Events": [],
+        "Events": [
+          {
+            "SpecificationCode": 1,
+            "EventType": 1,
+            "Output": 1000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2219,
+            "ProjectId": 1262,
+            "OwnerId": 0,
+            "Title": "eve2",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
         "AnalysisId": null,
         "Id": 2257,
         "ProjectId": 1262,
@@ -69,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-20T08:09:15.7079649Z",
-        "LastUpdatedDate": "2018-06-21T12:34:56.9570625Z",
+        "LastUpdatedDate": "2018-06-21T12:35:21.5737186Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
