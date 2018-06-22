@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "25c386362b72c92c5ef07aee1e3e7ad7d0a28185",
+  "DocumentKey": "448ac5f7557a90f8b652b8761c5a6f7b269750db",
   "Project": {
     "Id": 1284,
     "DocumentKey": null,
@@ -48,14 +48,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-22T08:44:43.904854Z",
+        "LastUpdatedDate": "2018-06-22T08:46:09.4406166Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       },
       {
-        "SpecificationCode": 343,
+        "SpecificationCode": 139,
         "EventType": 4,
         "Output": null,
         "Employment": null,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-22T08:44:43.9048544Z",
+        "LastUpdatedDate": "2018-06-22T08:46:09.4406171Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-22T08:44:43.9048548Z",
+        "LastUpdatedDate": "2018-06-22T08:46:09.4406174Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -111,7 +111,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 211,
+        "ModelId": 206,
         "Year": 38,
         "Events": [
           {
@@ -140,6 +140,33 @@
             "DeletedDate": null,
             "IsArchived": false,
             "ArchivedDate": null
+          },
+          {
+            "SpecificationCode": 139,
+            "EventType": 4,
+            "Output": null,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": 200000.0,
+            "Margins": false,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2233,
+            "ProjectId": 1284,
+            "OwnerId": 0,
+            "Title": "Event2",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
           }
         ],
         "AnalysisId": null,
@@ -151,7 +178,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-22T07:34:10.1453138Z",
-        "LastUpdatedDate": "2018-06-22T08:44:43.9048552Z",
+        "LastUpdatedDate": "2018-06-22T08:46:09.4406178Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
