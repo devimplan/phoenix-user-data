@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "359d89a363fa7f363a9ff8279332cd0bac92de68",
+  "DocumentKey": "77d2bff48d575fd0762409c4a73859fa8a06b889",
   "Project": {
     "Id": 1280,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1280,
     "Events": [
       {
-        "SpecificationCode": 65,
+        "SpecificationCode": 395,
         "EventType": 1,
         "Output": 1000000.0,
         "Employment": null,
@@ -43,12 +43,12 @@
         "Id": 2217,
         "ProjectId": 1280,
         "OwnerId": 0,
-        "Title": "IO_65_A",
+        "Title": "IO_395_A",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-22T07:27:58.0446739Z",
+        "LastUpdatedDate": "2018-06-22T07:28:45.1271719Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -61,7 +61,7 @@
         "Year": 38,
         "Events": [
           {
-            "SpecificationCode": 65,
+            "SpecificationCode": 395,
             "EventType": 1,
             "Output": 1000000.0,
             "Employment": null,
@@ -76,7 +76,7 @@
             "Id": 2217,
             "ProjectId": 1280,
             "OwnerId": 0,
-            "Title": "IO_65_A",
+            "Title": "IO_395_A",
             "DocumentKey": null,
             "UserWhoCreatedId": null,
             "UserWhoUpdatedId": 1,
@@ -97,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-21T11:37:49.7239279Z",
-        "LastUpdatedDate": "2018-06-22T07:27:58.0446745Z",
+        "LastUpdatedDate": "2018-06-22T07:28:45.1271725Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -116,7 +116,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-22T07:27:58.0446748Z",
+        "LastUpdatedDate": "2018-06-22T07:28:45.1271728Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
