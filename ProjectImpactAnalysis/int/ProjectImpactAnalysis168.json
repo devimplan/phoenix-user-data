@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "f23b42f0ac192ef378e383073382c132cc4811b6",
+  "DocumentKey": "a3f39348448e1b86e3a152a04de70bb5a5c6a70c",
   "Project": {
     "Id": 168,
     "DocumentKey": null,
@@ -30,18 +30,18 @@
     "Groups": [
       {
         "ModelId": null,
-        "Year": 38,
+        "Year": null,
         "Events": [],
         "AnalysisId": null,
-        "Id": 261,
+        "Id": 262,
         "ProjectId": 168,
         "OwnerId": 0,
-        "Title": "Maine group",
+        "Title": "",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
-        "CreatedDate": "2018-06-23T03:07:31.7851508Z",
-        "LastUpdatedDate": "2018-06-23T03:08:11.5661928Z",
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-06-23T03:08:27.7123455Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
