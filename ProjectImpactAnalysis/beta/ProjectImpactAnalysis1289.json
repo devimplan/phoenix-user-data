@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "e553ddee5136f90ffe62a3340e59470d049e2b05",
+  "DocumentKey": "781df0985a3068e200e88e57713c8636574b8cd4",
   "Project": {
     "Id": 1289,
     "DocumentKey": null,
@@ -30,10 +30,10 @@
       {
         "SpecificationCode": 1,
         "EventType": 1,
-        "Output": 1500000.0,
-        "Employment": null,
-        "EmployeeCompensation": null,
-        "ProprietorIncome": null,
+        "Output": 1000000.0,
+        "Employment": 1000000.0,
+        "EmployeeCompensation": 1000000.0,
+        "ProprietorIncome": 1000000.0,
         "Margins": null,
         "GdpDeflator": null,
         "OutputDeflator": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-25T04:45:57.6920396Z",
+        "LastUpdatedDate": "2018-06-25T10:40:35.9528671Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 206,
+        "ModelId": 211,
         "Year": 38,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2296,
         "ProjectId": 1289,
         "OwnerId": 0,
-        "Title": "LI-1",
+        "Title": "test1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-25T04:44:23.637525Z",
-        "LastUpdatedDate": "2018-06-25T04:45:57.6920403Z",
+        "LastUpdatedDate": "2018-06-25T10:40:35.952868Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
