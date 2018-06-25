@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1309,
+    "DocumentKey": "",
+    "Title": "New",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 1,
+    "UserWhoUpdatedId": 1,
+    "CreatedDate": "2018-06-25T14:02:04",
+    "LastUpdatedDate": "2018-06-25T14:02:04",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1309,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 169,
+        "Year": 38,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2323,
+        "ProjectId": 1309,
+        "OwnerId": 0,
+        "Title": "South Dakota group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 1,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": "2018-06-25T14:02:04.7228589Z",
+        "LastUpdatedDate": "2018-06-25T14:02:04.7228595Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
