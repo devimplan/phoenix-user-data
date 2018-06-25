@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "b8c6a2adc208e11e39cc760ee717af909cde5b4b",
+  "DocumentKey": "7f3f005a82c439bbc9b0b67161b0f7794c1a4ec5",
   "Project": {
     "Id": 1298,
     "DocumentKey": null,
@@ -28,8 +28,8 @@
     "ProjectId": 1298,
     "Events": [
       {
-        "SpecificationCode": 0,
-        "EventType": 0,
+        "SpecificationCode": 10007,
+        "EventType": 7,
         "Output": null,
         "Employment": null,
         "EmployeeCompensation": null,
@@ -39,23 +39,71 @@
         "OutputDeflator": null,
         "LocalPurchasePercentage": 1.0,
         "OverideValidationWarning": false,
-        "HouseholdIncome": null,
+        "HouseholdIncome": 1000000.0,
         "Id": 2275,
         "ProjectId": 1298,
         "OwnerId": 0,
-        "Title": "",
+        "Title": "Event1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-25T11:57:09.0370999Z",
+        "LastUpdatedDate": "2018-06-25T11:58:31.564241Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 204,
+        "Year": 38,
+        "Events": [
+          {
+            "SpecificationCode": 10007,
+            "EventType": 7,
+            "Output": null,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": false,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": 1000000.0,
+            "Id": 2275,
+            "ProjectId": 1298,
+            "OwnerId": 0,
+            "Title": "Event1",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "Id": 2307,
+        "ProjectId": 1298,
+        "OwnerId": 0,
+        "Title": "EN-1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-06-25T11:58:31.5642417Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
