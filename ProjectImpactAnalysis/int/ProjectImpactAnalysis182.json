@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 182,
+    "DocumentKey": "",
+    "Title": "Erik Project NC",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 1,
+    "UserWhoUpdatedId": 1,
+    "CreatedDate": "2018-06-27T13:27:22",
+    "LastUpdatedDate": "2018-06-27T13:27:22",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 182,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 158,
+        "Year": 38,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 281,
+        "ProjectId": 182,
+        "OwnerId": 0,
+        "Title": "North Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 1,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": "2018-06-27T13:27:22.7197073Z",
+        "LastUpdatedDate": "2018-06-27T13:27:22.7197078Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
