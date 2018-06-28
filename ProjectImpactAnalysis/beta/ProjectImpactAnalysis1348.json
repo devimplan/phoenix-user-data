@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1348,
+    "DocumentKey": "",
+    "Title": "Testing-New",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 1,
+    "UserWhoUpdatedId": 1,
+    "CreatedDate": "2018-06-28T08:26:48",
+    "LastUpdatedDate": "2018-06-28T08:26:48",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1348,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 171,
+        "Year": 38,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2381,
+        "ProjectId": 1348,
+        "OwnerId": 0,
+        "Title": "Utah group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 1,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": "2018-06-28T08:26:48.7837484Z",
+        "LastUpdatedDate": "2018-06-28T08:26:48.783749Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
