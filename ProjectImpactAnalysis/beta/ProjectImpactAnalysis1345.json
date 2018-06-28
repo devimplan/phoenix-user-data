@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "5806e570d62afab3f9b2d3ea90b58d04112a9fe1",
+  "DocumentKey": "5cbde74ff92296b3f0410f0aaae2d99181661e09",
   "Project": {
     "Id": 1345,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T05:24:23.0545293Z",
+        "LastUpdatedDate": "2018-06-28T05:26:23.9626345Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T05:24:23.0545299Z",
+        "LastUpdatedDate": "2018-06-28T05:26:23.962635Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -84,9 +84,36 @@
     ],
     "Groups": [
       {
-        "ModelId": 227,
+        "ModelId": 229,
         "Year": 38,
         "Events": [
+          {
+            "SpecificationCode": 1,
+            "EventType": 1,
+            "Output": 1000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2369,
+            "ProjectId": 1345,
+            "OwnerId": 0,
+            "Title": "Event1",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          },
           {
             "SpecificationCode": 65,
             "EventType": 3,
@@ -124,14 +151,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-28T05:02:44.3474712Z",
-        "LastUpdatedDate": "2018-06-28T05:24:23.0545306Z",
+        "LastUpdatedDate": "2018-06-28T05:26:23.9626356Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       },
       {
-        "ModelId": 215,
+        "ModelId": 226,
         "Year": 38,
         "Events": [
           {
@@ -198,7 +225,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T05:24:23.0545309Z",
+        "LastUpdatedDate": "2018-06-28T05:26:23.9626359Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
