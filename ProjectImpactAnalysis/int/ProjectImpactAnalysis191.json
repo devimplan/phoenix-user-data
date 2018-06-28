@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 191,
+    "DocumentKey": "",
+    "Title": "Wisconsin",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 12,
+    "UserWhoUpdatedId": 12,
+    "CreatedDate": "2018-06-28T15:11:22",
+    "LastUpdatedDate": "2018-06-28T15:11:22",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 191,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 265,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 290,
+        "ProjectId": 191,
+        "OwnerId": 0,
+        "Title": "55 group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 12,
+        "UserWhoUpdatedId": 12,
+        "CreatedDate": "2018-06-28T15:11:22.9932828Z",
+        "LastUpdatedDate": "2018-06-28T15:11:22.9932833Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
