@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "de83050331f602224ff8c1be38bb1e04acb579a6",
+  "DocumentKey": "32bfe3f54805bcaee5beb35a7b1b9524e018be3d",
   "Project": {
     "Id": 1350,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T10:50:26.9709355Z",
+        "LastUpdatedDate": "2018-06-28T10:53:22.0503937Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T10:50:26.970936Z",
+        "LastUpdatedDate": "2018-06-28T10:53:22.0503941Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-06-28T10:50:26.9709363Z",
+        "LastUpdatedDate": "2018-06-28T10:53:22.0503944Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -111,7 +111,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 208,
+        "ModelId": 214,
         "Year": 38,
         "Events": [
           {
@@ -146,12 +146,12 @@
         "Id": 2383,
         "ProjectId": 1350,
         "OwnerId": 0,
-        "Title": "W-G1",
+        "Title": "NC State",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": "2018-06-28T10:31:09.188584Z",
-        "LastUpdatedDate": "2018-06-28T10:50:26.9709368Z",
+        "LastUpdatedDate": "2018-06-28T10:53:22.050395Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
