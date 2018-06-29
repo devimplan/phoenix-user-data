@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 193,
+    "DocumentKey": "",
+    "Title": "edg-oh2",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 10,
+    "UserWhoUpdatedId": 10,
+    "CreatedDate": "2018-06-29T11:54:40",
+    "LastUpdatedDate": "2018-06-29T11:54:40",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 193,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 275,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 292,
+        "ProjectId": 193,
+        "OwnerId": 0,
+        "Title": "39 group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 10,
+        "UserWhoUpdatedId": 10,
+        "CreatedDate": "2018-06-29T11:54:40.7392253Z",
+        "LastUpdatedDate": "2018-06-29T11:54:40.7392257Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
