@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1369,
+    "DocumentKey": "",
+    "Title": "My Family 4th of July Cook Out",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 30,
+    "UserWhoUpdatedId": 30,
+    "CreatedDate": "2018-06-29T19:18:26",
+    "LastUpdatedDate": "2018-06-29T19:18:26",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1369,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2411,
+        "ProjectId": 1369,
+        "OwnerId": 0,
+        "Title": "North Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 30,
+        "UserWhoUpdatedId": 30,
+        "CreatedDate": "2018-06-29T19:18:26.916126Z",
+        "LastUpdatedDate": "2018-06-29T19:18:26.9161265Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
