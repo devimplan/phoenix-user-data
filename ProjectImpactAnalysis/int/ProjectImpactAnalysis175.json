@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "12addff7d199d69f885ad38f03508d15a8265c9e",
+  "DocumentKey": "54dd725657f3489a98ae754d253491d805ddfe15",
   "Project": {
     "Id": 175,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 175,
     "Events": [
       {
-        "SpecificationCode": 0,
+        "SpecificationCode": 536,
         "EventType": 1,
         "Output": 1500000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T01:14:22.981439Z",
+        "LastUpdatedDate": "2018-07-02T07:37:48.855237Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T01:14:22.9814396Z",
+        "LastUpdatedDate": "2018-07-02T07:37:48.855241Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T01:14:22.9814399Z",
+        "LastUpdatedDate": "2018-07-02T07:37:48.8552414Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -205,7 +205,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": "2018-06-25T19:21:28.0097281Z",
-        "LastUpdatedDate": "2018-07-02T01:14:22.9814404Z",
+        "LastUpdatedDate": "2018-07-02T07:37:48.8554311Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
