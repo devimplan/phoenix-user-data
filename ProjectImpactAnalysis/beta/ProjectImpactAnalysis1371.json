@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "b8fe21e9336dba2e5e7867a60c79ed9d8024c770",
+  "DocumentKey": "4958abdfe76eac16ed7c0c0f68bbce52109af979",
   "Project": {
     "Id": 1371,
     "DocumentKey": null,
@@ -48,18 +48,18 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-03T05:44:42.9007248Z",
+        "LastUpdatedDate": "2018-07-03T05:49:34.4299202Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       },
       {
-        "SpecificationCode": 408,
-        "EventType": 2,
+        "SpecificationCode": 277,
+        "EventType": 3,
         "Output": null,
-        "Employment": 1000000.0,
-        "EmployeeCompensation": null,
+        "Employment": null,
+        "EmployeeCompensation": 500000.0,
         "ProprietorIncome": null,
         "Margins": false,
         "GdpDeflator": null,
@@ -70,39 +70,19 @@
         "Id": 2448,
         "ProjectId": 1371,
         "OwnerId": 0,
-        "Title": "e2",
+        "Title": "e1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-03T05:44:42.9007253Z",
+        "LastUpdatedDate": "2018-07-03T05:49:34.4299206Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 244,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2417,
-        "ProjectId": 1371,
-        "OwnerId": 0,
-        "Title": "Nebraska group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-02T09:50:01.4357509Z",
-        "LastUpdatedDate": "2018-07-03T05:44:42.9007259Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
