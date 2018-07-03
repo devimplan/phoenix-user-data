@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1374,
+    "DocumentKey": "",
+    "Title": "New-P",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 13,
+    "UserWhoUpdatedId": 13,
+    "CreatedDate": "2018-07-03T05:41:12",
+    "LastUpdatedDate": "2018-07-03T05:41:12",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1374,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 244,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2423,
+        "ProjectId": 1374,
+        "OwnerId": 0,
+        "Title": "Pennsylvania group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 13,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-03T05:41:12.9437197Z",
+        "LastUpdatedDate": "2018-07-03T05:41:12.9437201Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
