@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "abb504c586908d4642670033b9e317dde3da7ea4",
+  "DocumentKey": "e5041bf2b4eb26cd9dc9e7f97b1abbec12f8042c",
   "Project": {
     "Id": 1393,
     "DocumentKey": null,
@@ -27,7 +27,27 @@
     "Name": null,
     "ProjectId": 1393,
     "Events": [],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2459,
+        "ProjectId": 1393,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-03T13:09:21.9958793Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
