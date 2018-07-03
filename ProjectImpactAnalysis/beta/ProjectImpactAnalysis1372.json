@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "f08728a0e70f5af25c9e0e840cf1efba802eac96",
+  "DocumentKey": "40cb0841e86060652a35383ea617c26e3997b53d",
   "Project": {
     "Id": 1372,
     "DocumentKey": null,
@@ -26,84 +26,8 @@
   "Impact": {
     "Name": null,
     "ProjectId": 1372,
-    "Events": [
-      {
-        "SpecificationCode": 1,
-        "EventType": 1,
-        "Output": 1000000.0,
-        "Employment": null,
-        "EmployeeCompensation": null,
-        "ProprietorIncome": null,
-        "Margins": null,
-        "GdpDeflator": null,
-        "OutputDeflator": null,
-        "LocalPurchasePercentage": 1.0,
-        "OverideValidationWarning": false,
-        "HouseholdIncome": null,
-        "Id": 2441,
-        "ProjectId": 1372,
-        "OwnerId": 0,
-        "Title": "Event1",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T10:23:15.0663619Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ],
-    "Groups": [
-      {
-        "ModelId": 244,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 1,
-            "EventType": 1,
-            "Output": 1000000.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": null,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2441,
-            "ProjectId": 1372,
-            "OwnerId": 0,
-            "Title": "Event1",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "Id": 2420,
-        "ProjectId": 1372,
-        "OwnerId": 0,
-        "Title": "g1",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T10:23:15.0663626Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Events": [],
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
