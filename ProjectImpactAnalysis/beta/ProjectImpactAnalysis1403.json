@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "21ee5b7a9d74e09149936f69cc59d9484aa14145",
+  "DocumentKey": "0d02182e4f4fdfc9fdfc544a4f6cfcb6a69afc45",
   "Project": {
     "Id": 1403,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-04T09:44:28.9958247Z",
+        "LastUpdatedDate": "2018-07-04T09:45:02.0479056Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 250,
         "Year": 39,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2486,
         "ProjectId": 1403,
         "OwnerId": 0,
-        "Title": "Iowa group",
+        "Title": "I-G1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-04T09:43:44.5787075Z",
-        "LastUpdatedDate": "2018-07-04T09:44:28.9958252Z",
+        "LastUpdatedDate": "2018-07-04T09:45:02.0479061Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
