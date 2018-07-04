@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "184d9eded2f14dc5fb60a588c7f3db72fd411468",
+  "DocumentKey": "f9b2930291cbfbaf86ddc092b14258e6622c61c0",
   "Project": {
     "Id": 1401,
     "DocumentKey": null,
@@ -27,27 +27,7 @@
     "Name": null,
     "ProjectId": 1401,
     "Events": [],
-    "Groups": [
-      {
-        "ModelId": null,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2481,
-        "ProjectId": 1401,
-        "OwnerId": 0,
-        "Title": "New Hampshire group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-04T08:44:39.7845136Z",
-        "LastUpdatedDate": "2018-07-04T08:44:46.2261405Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
