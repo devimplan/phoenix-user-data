@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "",
+  "DocumentKey": "521bfd160c751ce4484c7d06822739f1aa9802d9",
   "Project": {
     "Id": 1376,
     "DocumentKey": null,
@@ -45,10 +45,10 @@
         "OwnerId": 0,
         "Title": "",
         "DocumentKey": null,
-        "UserWhoCreatedId": 13,
+        "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-04T07:19:19.8058643Z",
-        "LastUpdatedDate": "2018-07-04T07:19:19.8058647Z",
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-04T07:21:48.4234946Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
