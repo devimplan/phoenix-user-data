@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1414,
+    "DocumentKey": "",
+    "Title": "wa",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 9,
+    "UserWhoUpdatedId": 9,
+    "CreatedDate": "2018-07-05T17:29:48",
+    "LastUpdatedDate": "2018-07-05T17:29:48",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1414,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 277,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2500,
+        "ProjectId": 1414,
+        "OwnerId": 0,
+        "Title": "Washington group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 9,
+        "UserWhoUpdatedId": 9,
+        "CreatedDate": "2018-07-05T17:29:48.1992301Z",
+        "LastUpdatedDate": "2018-07-05T17:29:48.1992306Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
