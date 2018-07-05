@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "9f5ade45fc860ad55bac98c9904a706b03f59a7a",
+  "DocumentKey": "1425233d10405070c94ea043bd842aa44212781c",
   "Project": {
     "Id": 1406,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-05T05:03:38.0642999Z",
+        "LastUpdatedDate": "2018-07-05T05:07:49.9297345Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 250,
         "Year": 39,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2491,
         "ProjectId": 1406,
         "OwnerId": 0,
-        "Title": "Maine group",
+        "Title": "M-G1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-05T05:01:32.2854844Z",
-        "LastUpdatedDate": "2018-07-05T05:03:38.0643005Z",
+        "LastUpdatedDate": "2018-07-05T05:07:49.929735Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
