@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1413,
+    "DocumentKey": "",
+    "Title": "ak",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 9,
+    "UserWhoUpdatedId": 9,
+    "CreatedDate": "2018-07-05T17:29:09",
+    "LastUpdatedDate": "2018-07-05T17:29:09",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1413,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 276,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2499,
+        "ProjectId": 1413,
+        "OwnerId": 0,
+        "Title": "Alaska group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 9,
+        "UserWhoUpdatedId": 9,
+        "CreatedDate": "2018-07-05T17:29:09.4534317Z",
+        "LastUpdatedDate": "2018-07-05T17:29:09.4534321Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
