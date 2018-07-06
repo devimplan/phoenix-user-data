@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1422,
+    "DocumentKey": "",
+    "Title": "Good O'l Texas",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 20,
+    "UserWhoUpdatedId": 20,
+    "CreatedDate": "2018-07-06T13:15:24",
+    "LastUpdatedDate": "2018-07-06T13:15:24",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1422,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2514,
+        "ProjectId": 1422,
+        "OwnerId": 0,
+        "Title": "Texas group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 20,
+        "UserWhoUpdatedId": 20,
+        "CreatedDate": "2018-07-06T13:15:24.3927643Z",
+        "LastUpdatedDate": "2018-07-06T13:15:24.3927648Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
