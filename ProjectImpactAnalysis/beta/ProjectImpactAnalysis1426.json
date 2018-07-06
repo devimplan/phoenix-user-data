@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1426,
+    "DocumentKey": "",
+    "Title": "CO",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 17,
+    "UserWhoUpdatedId": 17,
+    "CreatedDate": "2018-07-06T18:49:07",
+    "LastUpdatedDate": "2018-07-06T18:49:07",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1426,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2518,
+        "ProjectId": 1426,
+        "OwnerId": 0,
+        "Title": "Colorado group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 17,
+        "UserWhoUpdatedId": 17,
+        "CreatedDate": "2018-07-06T18:49:07.9198648Z",
+        "LastUpdatedDate": "2018-07-06T18:49:07.9198653Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
