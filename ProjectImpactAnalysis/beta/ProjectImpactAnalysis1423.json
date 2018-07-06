@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1423,
+    "DocumentKey": "",
+    "Title": "Indy",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 8,
+    "UserWhoUpdatedId": 8,
+    "CreatedDate": "2018-07-06T14:12:04",
+    "LastUpdatedDate": "2018-07-06T14:12:04",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1423,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2515,
+        "ProjectId": 1423,
+        "OwnerId": 0,
+        "Title": "Indiana group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 8,
+        "UserWhoUpdatedId": 8,
+        "CreatedDate": "2018-07-06T14:12:04.061125Z",
+        "LastUpdatedDate": "2018-07-06T14:12:04.0611255Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
