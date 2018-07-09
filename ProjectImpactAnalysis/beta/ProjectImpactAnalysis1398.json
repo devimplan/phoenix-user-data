@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "58954aa98c3a7f20b7c711e97c08a3ebcf2e4293",
+  "DocumentKey": "d9326afeed66158ddbb77946ff0c3e9d19c3a501",
   "Project": {
     "Id": 1398,
     "DocumentKey": null,
@@ -28,12 +28,12 @@
     "ProjectId": 1398,
     "Events": [
       {
-        "SpecificationCode": 5001,
+        "SpecificationCode": 6001,
         "EventType": 6,
         "Output": null,
         "Employment": null,
-        "EmployeeCompensation": 1000000.0,
-        "ProprietorIncome": null,
+        "EmployeeCompensation": null,
+        "ProprietorIncome": 1000000.0,
         "Margins": false,
         "GdpDeflator": null,
         "OutputDeflator": null,
@@ -43,12 +43,12 @@
         "Id": 2521,
         "ProjectId": 1398,
         "OwnerId": 0,
-        "Title": "Event1",
+        "Title": "LI_6001_V1_A",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-09T11:38:49.7575369Z",
+        "LastUpdatedDate": "2018-07-09T11:38:53.6951229Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 260,
+        "ModelId": 254,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
@@ -69,7 +69,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-04T07:33:30.7286486Z",
-        "LastUpdatedDate": "2018-07-09T11:38:49.7575375Z",
+        "LastUpdatedDate": "2018-07-09T11:38:53.6951235Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
