@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "cbd44de68fd39616ad0efd342bf3479e3c59c922",
+  "DocumentKey": "3d1281e245a4a81418383ec5c1127ff1b45f992b",
   "Project": {
     "Id": 1386,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": 244,
+        "ModelId": 250,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2444,
         "ProjectId": 1386,
         "OwnerId": 0,
-        "Title": "Pennsylvania group",
+        "Title": "Wash-MN",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-03T07:45:36.6670436Z",
-        "LastUpdatedDate": "2018-07-03T12:13:22.9688065Z",
+        "LastUpdatedDate": "2018-07-09T12:47:38.3954889Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
