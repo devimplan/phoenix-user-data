@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "60a68962fcd5832ff3bb2d476e1bc175f6edc58a",
+  "DocumentKey": "457a6c040cf28579279a75b8aaabe99a4196922e",
   "Project": {
     "Id": 1410,
     "DocumentKey": null,
@@ -29,12 +29,12 @@
     "Events": [
       {
         "SpecificationCode": 1,
-        "EventType": 1,
+        "EventType": 2,
         "Output": 1000000.0,
-        "Employment": null,
+        "Employment": 1000000.0,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
-        "Margins": null,
+        "Margins": false,
         "GdpDeflator": null,
         "OutputDeflator": null,
         "LocalPurchasePercentage": 1.0,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-06T10:03:46.2694586Z",
+        "LastUpdatedDate": "2018-07-09T06:25:07.385246Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -97,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-06T10:03:46.2694592Z",
+        "LastUpdatedDate": "2018-07-09T06:25:07.3852465Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
