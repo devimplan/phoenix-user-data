@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "370503afae12de32fe996f21be470a84242b2366",
+  "DocumentKey": "0250a681d4d281ddc614a1f4fc9329d5d326902a",
   "Project": {
     "Id": 175,
     "DocumentKey": null,
@@ -40,6 +40,7 @@
         "LocalPurchasePercentage": 1.0,
         "OverideValidationWarning": false,
         "HouseholdIncome": null,
+        "ScalingFactor": 1,
         "Id": 280,
         "ProjectId": 175,
         "OwnerId": 0,
@@ -48,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T07:59:13.2258095Z",
+        "LastUpdatedDate": "2018-07-10T13:02:20.8559295Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -67,6 +68,7 @@
         "LocalPurchasePercentage": 1.0,
         "OverideValidationWarning": false,
         "HouseholdIncome": null,
+        "ScalingFactor": 1,
         "Id": 293,
         "ProjectId": 175,
         "OwnerId": 0,
@@ -75,7 +77,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T07:59:13.22581Z",
+        "LastUpdatedDate": "2018-07-10T13:02:20.8559298Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -94,6 +96,7 @@
         "LocalPurchasePercentage": 1.0,
         "OverideValidationWarning": false,
         "HouseholdIncome": null,
+        "ScalingFactor": 1,
         "Id": 295,
         "ProjectId": 175,
         "OwnerId": 0,
@@ -102,34 +105,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-02T07:59:13.2258103Z",
+        "LastUpdatedDate": "2018-07-10T13:02:20.8559302Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 144,
-        "Year": 38,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 273,
-        "ProjectId": 175,
-        "OwnerId": 0,
-        "Title": "Minnesota group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 14,
-        "CreatedDate": "2018-06-25T19:21:28.0097281Z",
-        "LastUpdatedDate": "2018-07-02T07:59:13.2258108Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
