@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "b5a64d28e77430d82a2e9a38dbd5cb243f7e70c5",
+  "DocumentKey": "6f01dccc9f2243085dbcc9235cc90c0738974603",
   "Project": {
     "Id": 1461,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": 254,
+        "ModelId": 250,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2580,
         "ProjectId": 1461,
         "OwnerId": 0,
-        "Title": "California group",
+        "Title": "Wash-MN",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-09T10:11:25.5747758Z",
-        "LastUpdatedDate": "2018-07-10T04:26:01.8851185Z",
+        "LastUpdatedDate": "2018-07-10T04:26:17.1225129Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
