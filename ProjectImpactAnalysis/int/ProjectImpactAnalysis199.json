@@ -1,0 +1,58 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 199,
+    "DocumentKey": "",
+    "Title": "Midwest",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 12,
+    "UserWhoUpdatedId": 12,
+    "CreatedDate": "2018-07-10T14:25:57",
+    "LastUpdatedDate": "2018-07-10T14:25:57",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 199,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 305,
+        "ProjectId": 199,
+        "OwnerId": 0,
+        "Title": "Indiana group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 12,
+        "UserWhoUpdatedId": 12,
+        "CreatedDate": "2018-07-10T14:25:57.4634115Z",
+        "LastUpdatedDate": "2018-07-10T14:25:57.4634119Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
