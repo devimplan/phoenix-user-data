@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "783ccde4a3818a954bd45c66ea4f6c12eac3a7b7",
+  "DocumentKey": "897710122f462ea4dbca0386f90acfea55cd77f8",
   "Project": {
     "Id": 1471,
     "DocumentKey": null,
@@ -27,7 +27,46 @@
     "Name": null,
     "ProjectId": 1471,
     "Events": [],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 256,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2595,
+        "ProjectId": 1471,
+        "OwnerId": 0,
+        "Title": "South Dakota group",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-10T07:27:03.6204226Z",
+        "LastUpdatedDate": "2018-07-10T09:16:49.9729481Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      },
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2596,
+        "ProjectId": 1471,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-10T09:16:49.9729485Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
