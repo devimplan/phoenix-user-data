@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "ad39f45971667f10b6cb425641dad5dccd299540",
+  "DocumentKey": "b511b01bdbd1400a42e4b876a73e036bfcd2002c",
   "Project": {
     "Id": 175,
     "DocumentKey": null,
@@ -30,7 +30,7 @@
       {
         "SpecificationCode": 536,
         "EventType": 1,
-        "Output": 1500000.0,
+        "Output": 12345.0,
         "Employment": null,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-10T13:02:22.913464Z",
+        "LastUpdatedDate": "2018-07-10T13:25:55.1213721Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -77,7 +77,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-10T13:02:22.9134644Z",
+        "LastUpdatedDate": "2018-07-10T13:25:55.1213726Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -105,14 +105,65 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-10T13:02:22.9134647Z",
+        "LastUpdatedDate": "2018-07-10T13:25:55.1213729Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [
+          {
+            "SpecificationCode": 536,
+            "EventType": 1,
+            "Output": 12345.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "ScalingFactor": 1,
+            "Id": 280,
+            "ProjectId": 175,
+            "OwnerId": 0,
+            "Title": "Test123",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": 14,
+            "CreatedDate": null,
+            "LastUpdatedDate": "2018-07-02T07:59:13.2258095Z",
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 303,
+        "ProjectId": 175,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-10T13:25:55.1213733Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
