@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1489,
+    "DocumentKey": "",
+    "Title": "TX PN MRIO Test",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 18,
+    "UserWhoUpdatedId": 18,
+    "CreatedDate": "2018-07-10T14:24:34",
+    "LastUpdatedDate": "2018-07-10T14:24:34",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1489,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 290,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2625,
+        "ProjectId": 1489,
+        "OwnerId": 0,
+        "Title": "Texas group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 18,
+        "UserWhoUpdatedId": 18,
+        "CreatedDate": "2018-07-10T14:24:34.8032276Z",
+        "LastUpdatedDate": "2018-07-10T14:24:34.8032281Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
