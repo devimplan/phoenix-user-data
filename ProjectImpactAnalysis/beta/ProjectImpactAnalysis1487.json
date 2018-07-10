@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1487,
+    "DocumentKey": "",
+    "Title": "PN NJ MRIO Test",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 18,
+    "UserWhoUpdatedId": 18,
+    "CreatedDate": "2018-07-10T14:23:24",
+    "LastUpdatedDate": "2018-07-10T14:23:24",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1487,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 244,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2619,
+        "ProjectId": 1487,
+        "OwnerId": 0,
+        "Title": "Pennsylvania group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 18,
+        "UserWhoUpdatedId": 18,
+        "CreatedDate": "2018-07-10T14:23:24.7234317Z",
+        "LastUpdatedDate": "2018-07-10T14:23:24.7234322Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
