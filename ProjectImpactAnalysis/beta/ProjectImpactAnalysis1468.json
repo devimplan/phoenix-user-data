@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "9dc57b2001f8b98e7ca169cfd43ba259fd040e5b",
+  "DocumentKey": "627472a0c8c3fe75af8289dfeb028a9565784445",
   "Project": {
     "Id": 1468,
     "DocumentKey": null,
@@ -48,62 +48,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-10T05:41:11.0744814Z",
+        "LastUpdatedDate": "2018-07-11T10:00:28.0017145Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 250,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 3065,
-            "EventType": 5,
-            "Output": 1000000.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": null,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2532,
-            "ProjectId": 1468,
-            "OwnerId": 0,
-            "Title": "CommOP_3065_A",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "Id": 2592,
-        "ProjectId": 1468,
-        "OwnerId": 0,
-        "Title": "Washington-MN",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-10T05:09:06.5626902Z",
-        "LastUpdatedDate": "2018-07-10T05:41:11.074482Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
