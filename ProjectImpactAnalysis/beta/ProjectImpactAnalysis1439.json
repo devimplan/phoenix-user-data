@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "44f557f999b864f4a7efa2c3d5a81f418e89b760",
+  "DocumentKey": "3ae9826eabe05ad43aeada8b603cbe889673ff80",
   "Project": {
     "Id": 1439,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": 253,
+        "ModelId": 250,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2534,
         "ProjectId": 1439,
         "OwnerId": 0,
-        "Title": "Minnesota group",
+        "Title": "Washington-MN",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-09T06:44:17.6208873Z",
-        "LastUpdatedDate": "2018-07-11T09:27:09.3028742Z",
+        "LastUpdatedDate": "2018-07-11T09:27:28.6010956Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
