@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "9c0d2dd8ed0881b8bfeee90e4fc21d77fdb76764",
+  "DocumentKey": "bbc96f789c3e79ea5132c86f0720f729825d3ddc",
   "Project": {
     "Id": 1469,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 259,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2593,
         "ProjectId": 1469,
         "OwnerId": 0,
-        "Title": "Nebraska group",
+        "Title": "New York-NY",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-10T06:49:27.7754422Z",
-        "LastUpdatedDate": "2018-07-10T06:49:34.0105154Z",
+        "LastUpdatedDate": "2018-07-11T09:42:08.1480227Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
