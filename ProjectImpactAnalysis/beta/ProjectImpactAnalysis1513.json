@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1513,
+    "DocumentKey": "",
+    "Title": "Testing",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 13,
+    "UserWhoUpdatedId": 13,
+    "CreatedDate": "2018-07-11T09:37:16",
+    "LastUpdatedDate": "2018-07-11T09:37:16",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1513,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 290,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2707,
+        "ProjectId": 1513,
+        "OwnerId": 0,
+        "Title": "Texas group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 13,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-11T09:37:16.3024106Z",
+        "LastUpdatedDate": "2018-07-11T09:37:16.3024111Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
