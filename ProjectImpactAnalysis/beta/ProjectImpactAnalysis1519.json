@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "69bee8676076465c78c7b5ee2f09733419b45079",
+  "DocumentKey": "841e56dbb33406ddb9403272fb5a866813fd0bed",
   "Project": {
     "Id": 1519,
     "DocumentKey": null,
@@ -26,28 +26,36 @@
   "Impact": {
     "Name": null,
     "ProjectId": 1519,
-    "Events": [],
-    "Groups": [
+    "Events": [
       {
-        "ModelId": null,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2715,
+        "SpecificationCode": 0,
+        "EventType": 0,
+        "Output": null,
+        "Employment": null,
+        "EmployeeCompensation": null,
+        "ProprietorIncome": null,
+        "Margins": false,
+        "GdpDeflator": null,
+        "OutputDeflator": null,
+        "LocalPurchasePercentage": 1.0,
+        "OverideValidationWarning": false,
+        "HouseholdIncome": null,
+        "Id": 2616,
         "ProjectId": 1519,
         "OwnerId": 0,
-        "Title": "Vermont group",
+        "Title": "",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 16,
-        "CreatedDate": "2018-07-11T18:44:04.8514648Z",
-        "LastUpdatedDate": "2018-07-11T18:55:24.1016799Z",
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-11T19:47:42.8514822Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
-    ]
+    ],
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
