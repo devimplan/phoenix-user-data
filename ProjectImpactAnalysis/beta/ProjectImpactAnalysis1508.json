@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "1537fb65debd6fc670f83e90e965eecf26d586f7",
+  "DocumentKey": "ecf669a006d884342266e77f895e1f3d745a3ad3",
   "Project": {
     "Id": 1508,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-11T06:44:02.4761654Z",
+        "LastUpdatedDate": "2018-07-11T06:44:31.2530694Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 259,
         "Year": 39,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2701,
         "ProjectId": 1508,
         "OwnerId": 0,
-        "Title": "Wyoming group",
+        "Title": "W-Group1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-11T06:42:11.5322253Z",
-        "LastUpdatedDate": "2018-07-11T06:44:02.4761659Z",
+        "LastUpdatedDate": "2018-07-11T06:44:31.2530701Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
