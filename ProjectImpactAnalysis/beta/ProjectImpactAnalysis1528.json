@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1528,
+    "DocumentKey": "",
+    "Title": "TXPAMRIO",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 18,
+    "UserWhoUpdatedId": 18,
+    "CreatedDate": "2018-07-12T14:23:41",
+    "LastUpdatedDate": "2018-07-12T14:23:41",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1528,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 290,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2745,
+        "ProjectId": 1528,
+        "OwnerId": 0,
+        "Title": "Texas group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 18,
+        "UserWhoUpdatedId": 18,
+        "CreatedDate": "2018-07-12T14:23:41.2071266Z",
+        "LastUpdatedDate": "2018-07-12T14:23:41.207127Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
