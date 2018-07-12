@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "336b9578fde0d59343b5fa1debdd247a09ddd5a4",
+  "DocumentKey": "ce2534950fa9306f8d0eaad390797b52669bb566",
   "Project": {
     "Id": 1522,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1522,
     "Events": [
       {
-        "SpecificationCode": 3417,
+        "SpecificationCode": 3001,
         "EventType": 5,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,14 +48,62 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-12T05:16:34.5118423Z",
+        "LastUpdatedDate": "2018-07-12T05:17:22.7756917Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 254,
+        "Year": 39,
+        "Events": [
+          {
+            "SpecificationCode": 3001,
+            "EventType": 5,
+            "Output": 1000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2620,
+            "ProjectId": 1522,
+            "OwnerId": 0,
+            "Title": "Event1",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "Id": 2723,
+        "ProjectId": 1522,
+        "OwnerId": 0,
+        "Title": "G-1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-12T05:17:22.7756923Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
