@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1531,
+    "DocumentKey": "",
+    "Title": "VA Fun",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 33,
+    "UserWhoUpdatedId": 33,
+    "CreatedDate": "2018-07-12T18:50:22",
+    "LastUpdatedDate": "2018-07-12T18:50:22",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1531,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2748,
+        "ProjectId": 1531,
+        "OwnerId": 0,
+        "Title": "51 group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 33,
+        "UserWhoUpdatedId": 33,
+        "CreatedDate": "2018-07-12T18:50:22.6257588Z",
+        "LastUpdatedDate": "2018-07-12T18:50:22.6257593Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
