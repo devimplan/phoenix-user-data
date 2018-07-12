@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1532,
+    "DocumentKey": "",
+    "Title": "Test",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 33,
+    "UserWhoUpdatedId": 33,
+    "CreatedDate": "2018-07-12T18:57:52",
+    "LastUpdatedDate": "2018-07-12T18:57:52",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1532,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 295,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2751,
+        "ProjectId": 1532,
+        "OwnerId": 0,
+        "Title": "51 group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 33,
+        "UserWhoUpdatedId": 33,
+        "CreatedDate": "2018-07-12T18:57:52.597465Z",
+        "LastUpdatedDate": "2018-07-12T18:57:52.5974655Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
