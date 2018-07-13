@@ -1,0 +1,58 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 207,
+    "DocumentKey": "",
+    "Title": "Bill Dyer Project",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 19,
+    "UserWhoUpdatedId": 19,
+    "CreatedDate": "2018-07-13T12:35:18",
+    "LastUpdatedDate": "2018-07-13T12:35:18",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 207,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 281,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 331,
+        "ProjectId": 207,
+        "OwnerId": 0,
+        "Title": "North Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 19,
+        "UserWhoUpdatedId": 19,
+        "CreatedDate": "2018-07-13T12:35:18.2716941Z",
+        "LastUpdatedDate": "2018-07-13T12:35:18.2716945Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
