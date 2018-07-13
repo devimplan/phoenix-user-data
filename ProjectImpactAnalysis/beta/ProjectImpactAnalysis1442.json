@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "71e90c1e38088f55a372750075cbcbc346e015c0",
+  "DocumentKey": "88950aaf5e2915c7b2189a5cac27f9253269dab9",
   "Project": {
     "Id": 1442,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": 253,
+        "ModelId": 260,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2544,
         "ProjectId": 1442,
         "OwnerId": 0,
-        "Title": "Minnesota group",
+        "Title": "NC",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-09T06:54:50.3771538Z",
-        "LastUpdatedDate": "2018-07-13T08:22:03.9436975Z",
+        "LastUpdatedDate": "2018-07-13T08:22:21.4616864Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
