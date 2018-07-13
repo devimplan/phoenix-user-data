@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1537,
+    "DocumentKey": "",
+    "Title": "Amazon HQ2",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 34,
+    "UserWhoUpdatedId": 34,
+    "CreatedDate": "2018-07-13T12:43:49",
+    "LastUpdatedDate": "2018-07-13T12:43:49",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1537,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 257,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2759,
+        "ProjectId": 1537,
+        "OwnerId": 0,
+        "Title": "North Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 34,
+        "UserWhoUpdatedId": 34,
+        "CreatedDate": "2018-07-13T12:43:49.2776591Z",
+        "LastUpdatedDate": "2018-07-13T12:43:49.2776596Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
