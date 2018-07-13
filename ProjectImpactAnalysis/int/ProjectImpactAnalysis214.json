@@ -1,0 +1,58 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 214,
+    "DocumentKey": "",
+    "Title": "test99",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 14,
+    "UserWhoUpdatedId": 14,
+    "CreatedDate": "2018-07-13T16:38:42",
+    "LastUpdatedDate": "2018-07-13T16:38:42",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 214,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 261,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 339,
+        "ProjectId": 214,
+        "OwnerId": 0,
+        "Title": "Minnesota group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 14,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": "2018-07-13T16:38:42.8992488Z",
+        "LastUpdatedDate": "2018-07-13T16:38:42.8992492Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
