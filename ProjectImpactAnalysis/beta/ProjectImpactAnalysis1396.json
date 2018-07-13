@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "",
+  "DocumentKey": "7518028fcfe4b296492108ffc356229935da9821",
   "Project": {
     "Id": 1396,
     "DocumentKey": null,
@@ -45,65 +45,17 @@
         "OwnerId": 0,
         "Title": "Event123",
         "DocumentKey": null,
-        "UserWhoCreatedId": 13,
+        "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-06T07:12:43.8252161Z",
-        "LastUpdatedDate": "2018-07-06T07:12:43.8252167Z",
+        "LastUpdatedDate": "2018-07-13T12:21:08.7862334Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 250,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 6001,
-            "EventType": 6,
-            "Output": null,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": 1500000.0,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2500,
-            "ProjectId": 1396,
-            "OwnerId": 0,
-            "Title": "Event123",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "Id": 2506,
-        "ProjectId": 1396,
-        "OwnerId": 0,
-        "Title": "Group123",
-        "DocumentKey": null,
-        "UserWhoCreatedId": 13,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-06T07:12:43.8252172Z",
-        "LastUpdatedDate": "2018-07-06T07:12:43.8252175Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
