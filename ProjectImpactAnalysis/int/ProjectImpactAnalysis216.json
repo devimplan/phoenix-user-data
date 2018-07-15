@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "34a42592617bd22adbd17ddca689537b4785d8ad",
+  "DocumentKey": "f6382c9b3ae3a122e8d3790eb200701a64d8e35c",
   "Project": {
     "Id": 216,
     "DocumentKey": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-15T23:08:40.4439682Z",
+        "LastUpdatedDate": "2018-07-15T23:08:46.1464817Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -77,14 +77,36 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 1,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-15T23:08:40.4439686Z",
+        "LastUpdatedDate": "2018-07-15T23:08:46.1464821Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 360,
+        "ProjectId": 216,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 1,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-15T23:08:46.1464826Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
