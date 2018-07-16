@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "6f1919fb2e52bdfbf257483afc6f71667c45080f",
+  "DocumentKey": "73f16df645cef59c40a65b4a516165f80781bcec",
   "Project": {
     "Id": 1544,
     "DocumentKey": null,
@@ -29,19 +29,19 @@
     "Events": [],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 250,
         "Year": 39,
         "Events": [],
         "AnalysisId": null,
         "Id": 2777,
         "ProjectId": 1544,
         "OwnerId": 0,
-        "Title": "Iowa group",
+        "Title": "Wash-MN",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-16T09:02:03.8105446Z",
-        "LastUpdatedDate": "2018-07-16T09:02:17.1661102Z",
+        "LastUpdatedDate": "2018-07-16T09:27:24.132839Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
