@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "e3978a4af2dc5d9a0cac68b364e3e3a67f991322",
+  "DocumentKey": "10a0b8d697e1e8351ec7cbe90cc16b22c1ecb043",
   "Project": {
     "Id": 1545,
     "DocumentKey": null,
@@ -27,27 +27,7 @@
     "Name": null,
     "ProjectId": 1545,
     "Events": [],
-    "Groups": [
-      {
-        "ModelId": null,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2778,
-        "ProjectId": 1545,
-        "OwnerId": 0,
-        "Title": "Indiana group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-16T09:03:08.3841932Z",
-        "LastUpdatedDate": "2018-07-16T09:03:11.3426169Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
