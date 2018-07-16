@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "66b07f86e586d1719334445d4d3cd229d1bfd14e",
+  "DocumentKey": "65b1a4e1f07f517e2ca2f0b1eb26777cd0301991",
   "Project": {
     "Id": 1557,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T14:24:29.0077921Z",
+        "LastUpdatedDate": "2018-07-16T14:24:43.1059698Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 250,
         "Year": 39,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2798,
         "ProjectId": 1557,
         "OwnerId": 0,
-        "Title": "Kansas group",
+        "Title": "K-G",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": "2018-07-16T14:20:06.5639304Z",
-        "LastUpdatedDate": "2018-07-16T14:24:29.0077927Z",
+        "LastUpdatedDate": "2018-07-16T14:24:43.1059704Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
