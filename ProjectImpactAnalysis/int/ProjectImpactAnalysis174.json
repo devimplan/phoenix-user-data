@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "1e772d12d95a03cc5cf2f110322e93c4057701f5",
+  "DocumentKey": "40dfc78d01cc89a9e225a2d5c320116add132d28",
   "Project": {
     "Id": 174,
     "DocumentKey": null,
@@ -49,65 +49,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T06:25:33.3718707Z",
+        "LastUpdatedDate": "2018-07-16T13:52:34.5891847Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 144,
-        "Year": 5,
-        "Events": [
-          {
-            "SpecificationCode": 139,
-            "EventType": 1,
-            "Output": 999988.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": null,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "ScalingFactor": 1,
-            "Id": 270,
-            "ProjectId": 174,
-            "OwnerId": 0,
-            "Title": "Int Impact Event LJV",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "IsScaledFactor": false,
-        "ScalingFactor": 2,
-        "Id": 272,
-        "ProjectId": 174,
-        "OwnerId": 0,
-        "Title": "Minnesota group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 14,
-        "CreatedDate": "2018-06-25T18:47:52.4014608Z",
-        "LastUpdatedDate": "2018-07-16T06:25:33.3718714Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
