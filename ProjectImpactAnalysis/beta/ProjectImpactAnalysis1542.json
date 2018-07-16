@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "f44891713d05320959feb44adae60f896c86a02e",
+  "DocumentKey": "d0654657205526627f6880254e9273039deb51a9",
   "Project": {
     "Id": 1542,
     "DocumentKey": null,
@@ -28,13 +28,13 @@
     "ProjectId": 1542,
     "Events": [
       {
-        "SpecificationCode": 518,
-        "EventType": 4,
-        "Output": null,
+        "SpecificationCode": 65,
+        "EventType": 1,
+        "Output": 1000000.0,
         "Employment": null,
         "EmployeeCompensation": null,
-        "ProprietorIncome": 1000000.0,
-        "Margins": false,
+        "ProprietorIncome": null,
+        "Margins": null,
         "GdpDeflator": null,
         "OutputDeflator": null,
         "LocalPurchasePercentage": 1.0,
@@ -43,39 +43,19 @@
         "Id": 2661,
         "ProjectId": 1542,
         "OwnerId": 0,
-        "Title": "e123",
+        "Title": "Event1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T07:45:45.2700624Z",
+        "LastUpdatedDate": "2018-07-16T08:20:43.8983101Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 250,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2770,
-        "ProjectId": 1542,
-        "OwnerId": 0,
-        "Title": "Wash-MN",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-16T07:22:46.7665522Z",
-        "LastUpdatedDate": "2018-07-16T07:45:45.270063Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
