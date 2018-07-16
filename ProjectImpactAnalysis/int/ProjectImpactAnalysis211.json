@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "652938115ef9d188825c6090c25f947d001516cd",
+  "DocumentKey": "9f928b0f55a59ad7735a957a47f2e84bd121da62",
   "Project": {
     "Id": 211,
     "DocumentKey": null,
@@ -41,9 +41,9 @@
         "Title": "Minnesota group",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 1,
+        "UserWhoUpdatedId": 15,
         "CreatedDate": "2018-07-13T16:33:07.932112Z",
-        "LastUpdatedDate": "2018-07-13T16:37:36.2532466Z",
+        "LastUpdatedDate": "2018-07-16T18:12:01.8127074Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
