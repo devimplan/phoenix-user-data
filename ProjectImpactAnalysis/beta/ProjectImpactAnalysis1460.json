@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "d794a7c72e00c8f88d0eaa8e0823943169aba2ec",
+  "DocumentKey": "16c94af66009239114ce2e267c233dd307198e55",
   "Project": {
     "Id": 1460,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T13:36:47.017688Z",
+        "LastUpdatedDate": "2018-07-16T13:36:51.442321Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T13:36:47.0176885Z",
+        "LastUpdatedDate": "2018-07-16T13:36:51.4423213Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T13:36:47.0176889Z",
+        "LastUpdatedDate": "2018-07-16T13:36:51.4423217Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -129,34 +129,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T13:36:47.0176892Z",
+        "LastUpdatedDate": "2018-07-16T13:36:51.442322Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 256,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2577,
-        "ProjectId": 1460,
-        "OwnerId": 0,
-        "Title": "MN_CA",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-09T09:50:42.3873919Z",
-        "LastUpdatedDate": "2018-07-16T13:36:47.0176896Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
