@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "1f987d328531d625d16bfa657eb17177be377754",
+  "DocumentKey": "af8afc1884d242fd6be3a5289a7f7af518d531bc",
   "Project": {
     "Id": 1540,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T05:59:31.3895265Z",
+        "LastUpdatedDate": "2018-07-16T06:00:02.6205406Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,7 +57,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 296,
         "Year": 39,
         "Events": [
           {
@@ -92,12 +92,12 @@
         "Id": 2765,
         "ProjectId": 1540,
         "OwnerId": 0,
-        "Title": "Colorado group",
+        "Title": "N-G",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-16T05:33:27.7679017Z",
-        "LastUpdatedDate": "2018-07-16T05:59:31.389527Z",
+        "LastUpdatedDate": "2018-07-16T06:00:02.6205412Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
