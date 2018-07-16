@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "8644b8f848ed0716f70f7c9159e85b8f3daa9944",
+  "DocumentKey": "31326a8d978dd4ca83e4d23bfab3ee3b83cf0538",
   "Project": {
     "Id": 174,
     "DocumentKey": null,
@@ -49,14 +49,65 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-16T17:11:32.527151Z",
+        "LastUpdatedDate": "2018-07-16T17:12:05.5573711Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [
+          {
+            "SpecificationCode": 139,
+            "EventType": 1,
+            "Output": 999988.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "ScalingFactor": 1,
+            "Id": 270,
+            "ProjectId": 174,
+            "OwnerId": 0,
+            "Title": "Int Impact Event LJV",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": 14,
+            "CreatedDate": null,
+            "LastUpdatedDate": "2018-07-16T14:10:18.4124792Z",
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "IsScaledFactor": false,
+        "ScalingFactor": 1,
+        "Id": 365,
+        "ProjectId": 174,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-16T17:12:05.5573716Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
