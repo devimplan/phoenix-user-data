@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1567,
+    "DocumentKey": "",
+    "Title": "Reg",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 13,
+    "UserWhoUpdatedId": 13,
+    "CreatedDate": "2018-07-17T08:38:46",
+    "LastUpdatedDate": "2018-07-17T08:38:46",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1567,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2811,
+        "ProjectId": 1567,
+        "OwnerId": 0,
+        "Title": "Kansas group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 13,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-17T08:39:05.4543849Z",
+        "LastUpdatedDate": "2018-07-17T08:39:05.4543853Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
