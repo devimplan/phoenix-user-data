@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "c866498a51b4d6edf75454bd36c85cac1c98310c",
+  "DocumentKey": "a4af6369390094ce94b3a16970e78820498737a5",
   "Project": {
     "Id": 1416,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-11T11:26:33.7235405Z",
+        "LastUpdatedDate": "2018-07-17T09:38:11.7890235Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-11T11:26:33.7235411Z",
+        "LastUpdatedDate": "2018-07-17T09:38:11.789024Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,34 +102,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-11T11:26:33.7235415Z",
+        "LastUpdatedDate": "2018-07-17T09:38:11.7890243Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 259,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "Id": 2502,
-        "ProjectId": 1416,
-        "OwnerId": 0,
-        "Title": "New York-NY",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-06T05:25:42.7798218Z",
-        "LastUpdatedDate": "2018-07-11T11:26:33.7235421Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
