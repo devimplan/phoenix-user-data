@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "a4af6369390094ce94b3a16970e78820498737a5",
+  "DocumentKey": "1fc09ed1e17845349e777b2a37cd1a50872e935d",
   "Project": {
     "Id": 1416,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-17T09:38:11.7890235Z",
+        "LastUpdatedDate": "2018-07-17T09:38:30.7580698Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-17T09:38:11.789024Z",
+        "LastUpdatedDate": "2018-07-17T09:38:30.7580702Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,14 +102,34 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-17T09:38:11.7890243Z",
+        "LastUpdatedDate": "2018-07-17T09:38:30.7580705Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 252,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2813,
+        "ProjectId": 1416,
+        "OwnerId": 0,
+        "Title": "Alameda-CA",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-17T09:38:30.7580709Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
