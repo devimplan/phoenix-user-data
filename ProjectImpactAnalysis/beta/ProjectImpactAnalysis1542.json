@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "8c71597036db63be4a0bc1f4e2b6b3f4ebdb986b",
+  "DocumentKey": "b1aaf98536740118db980d4c368c79616896cf1e",
   "Project": {
     "Id": 1542,
     "DocumentKey": null,
@@ -29,8 +29,8 @@
     "Events": [
       {
         "SpecificationCode": 65,
-        "EventType": 2,
-        "Output": null,
+        "EventType": 1,
+        "Output": 1500000.0,
         "Employment": 1500000.0,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T07:58:36.9361973Z",
+        "LastUpdatedDate": "2018-07-18T08:00:27.2326413Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -59,35 +59,7 @@
       {
         "ModelId": 250,
         "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 65,
-            "EventType": 2,
-            "Output": null,
-            "Employment": 1500000.0,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2661,
-            "ProjectId": 1542,
-            "OwnerId": 0,
-            "Title": "Event123",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": 13,
-            "CreatedDate": null,
-            "LastUpdatedDate": "2018-07-18T06:34:35.8070764Z",
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
+        "Events": [],
         "AnalysisId": null,
         "Id": 2775,
         "ProjectId": 1542,
@@ -97,7 +69,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T07:58:36.9361979Z",
+        "LastUpdatedDate": "2018-07-18T08:00:27.232642Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
