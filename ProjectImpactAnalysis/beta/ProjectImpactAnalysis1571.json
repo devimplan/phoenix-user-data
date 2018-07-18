@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "1ce25b00aa2ff639414ad8275dcfa7b5fd677698",
+  "DocumentKey": "4561e79329d29e06fe1ee87b2058843618b699a9",
   "Project": {
     "Id": 1571,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T05:31:53.8281826Z",
+        "LastUpdatedDate": "2018-07-18T09:29:25.6751315Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,62 +75,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T05:31:53.828183Z",
+        "LastUpdatedDate": "2018-07-18T09:29:25.6751319Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 250,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 395,
-            "EventType": 3,
-            "Output": 1000000.0,
-            "Employment": 1000000.0,
-            "EmployeeCompensation": 1000000.0,
-            "ProprietorIncome": 1000000.0,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2736,
-            "ProjectId": 1571,
-            "OwnerId": 0,
-            "Title": "Evn1",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": 13,
-            "CreatedDate": null,
-            "LastUpdatedDate": "2018-07-17T11:27:45.5930543Z",
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "Id": 2822,
-        "ProjectId": 1571,
-        "OwnerId": 0,
-        "Title": "Wash-MN",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T05:31:53.8281835Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
