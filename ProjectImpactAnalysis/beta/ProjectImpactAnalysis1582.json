@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "253a7de42c4270bda82c9b3fbcccac1ecf54514d",
+  "DocumentKey": "2a78e9313a13fbb12e541f6af9d090dac4d5a5cf",
   "Project": {
     "Id": 1582,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1582,
     "Events": [
       {
-        "SpecificationCode": 408,
+        "SpecificationCode": 395,
         "EventType": 1,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T06:27:40.7635061Z",
+        "LastUpdatedDate": "2018-07-18T06:27:54.0249021Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -59,7 +59,35 @@
       {
         "ModelId": 252,
         "Year": 39,
-        "Events": [],
+        "Events": [
+          {
+            "SpecificationCode": 395,
+            "EventType": 1,
+            "Output": 1000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2749,
+            "ProjectId": 1582,
+            "OwnerId": 0,
+            "Title": "E1",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": 13,
+            "CreatedDate": null,
+            "LastUpdatedDate": "2018-07-18T06:09:05.620659Z",
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
         "AnalysisId": null,
         "Id": 2843,
         "ProjectId": 1582,
@@ -69,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-18T06:04:46.9797913Z",
-        "LastUpdatedDate": "2018-07-18T06:27:40.7635068Z",
+        "LastUpdatedDate": "2018-07-18T06:27:54.0249027Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
