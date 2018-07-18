@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "73d19cfcbb1800df8fd6db2ca289049f7eeba056",
+  "DocumentKey": "cd7d56d1b496b548d0d8664bf555dcab650be4ab",
   "Project": {
     "Id": 1551,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T09:26:46.0777977Z",
+        "LastUpdatedDate": "2018-07-18T09:27:26.8500388Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,14 +75,62 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T09:26:46.0777981Z",
+        "LastUpdatedDate": "2018-07-18T09:27:26.8500392Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 274,
+        "Year": 39,
+        "Events": [
+          {
+            "SpecificationCode": 119,
+            "EventType": 4,
+            "Output": null,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": 100000.0,
+            "Margins": false,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2762,
+            "ProjectId": 1551,
+            "OwnerId": 0,
+            "Title": "Ev1",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "Id": 2848,
+        "ProjectId": 1551,
+        "OwnerId": 0,
+        "Title": "Gr1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-18T09:27:26.8500397Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
