@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1602,
+    "DocumentKey": "",
+    "Title": "New-P",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 14,
+    "UserWhoUpdatedId": 14,
+    "CreatedDate": "2018-07-18T13:22:29",
+    "LastUpdatedDate": "2018-07-18T13:22:29",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1602,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 268,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2872,
+        "ProjectId": 1602,
+        "OwnerId": 0,
+        "Title": "Montana group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 14,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": "2018-07-18T13:22:29.7711729Z",
+        "LastUpdatedDate": "2018-07-18T13:22:29.7711735Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
