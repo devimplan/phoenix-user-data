@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "6b799bc2af09f125a1763510a624faf0bc809d2c",
+  "DocumentKey": "0aa67d42241fb9ec22e8c62da65b29d595eb90b3",
   "Project": {
     "Id": 1513,
     "DocumentKey": null,
@@ -28,9 +28,9 @@
     "ProjectId": 1513,
     "Events": [
       {
-        "SpecificationCode": 417,
+        "SpecificationCode": 408,
         "EventType": 1,
-        "Output": 1000000.0,
+        "Output": 1500000.0,
         "Employment": null,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T06:29:29.1226236Z",
+        "LastUpdatedDate": "2018-07-18T06:30:01.2937759Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T06:29:29.122624Z",
+        "LastUpdatedDate": "2018-07-18T06:30:01.2937763Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -88,9 +88,9 @@
         "Year": 39,
         "Events": [
           {
-            "SpecificationCode": 417,
+            "SpecificationCode": 408,
             "EventType": 1,
-            "Output": 1000000.0,
+            "Output": 1500000.0,
             "Employment": null,
             "EmployeeCompensation": null,
             "ProprietorIncome": null,
@@ -108,7 +108,7 @@
             "UserWhoCreatedId": null,
             "UserWhoUpdatedId": 13,
             "CreatedDate": null,
-            "LastUpdatedDate": "2018-07-11T09:52:06.1613901Z",
+            "LastUpdatedDate": "2018-07-17T13:35:41.3431527Z",
             "IsDeleted": false,
             "DeletedDate": null,
             "IsArchived": false,
@@ -124,7 +124,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-11T09:37:16.3024106Z",
-        "LastUpdatedDate": "2018-07-18T06:29:29.1226245Z",
+        "LastUpdatedDate": "2018-07-18T06:30:01.293777Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
