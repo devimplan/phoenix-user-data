@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "3ab57afc5201eb853f92ebc5cfe0854a2679a941",
+  "DocumentKey": "074d0341771f6b3c49648396373f7934fe2a6c65",
   "Project": {
     "Id": 1597,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T12:27:24.3666028Z",
+        "LastUpdatedDate": "2018-07-18T12:29:08.5211804Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T12:27:24.3666032Z",
+        "LastUpdatedDate": "2018-07-18T12:29:08.5211808Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T12:27:24.3666035Z",
+        "LastUpdatedDate": "2018-07-18T12:29:08.5211811Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -111,7 +111,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 250,
+        "ModelId": 274,
         "Year": 39,
         "Events": [
           {
@@ -140,33 +140,6 @@
             "DeletedDate": null,
             "IsArchived": false,
             "ArchivedDate": null
-          },
-          {
-            "SpecificationCode": 65,
-            "EventType": 4,
-            "Output": null,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": 1000000.0,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "Id": 2794,
-            "ProjectId": 1597,
-            "OwnerId": 0,
-            "Title": "e2",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
           }
         ],
         "AnalysisId": null,
@@ -178,7 +151,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-18T12:16:30.1552303Z",
-        "LastUpdatedDate": "2018-07-18T12:27:24.366604Z",
+        "LastUpdatedDate": "2018-07-18T12:29:08.5211816Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
