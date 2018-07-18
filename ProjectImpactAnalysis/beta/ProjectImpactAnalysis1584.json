@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "2df4c4f635a7f426afb654c49931323fa63ed465",
+  "DocumentKey": "6ff930c7cce03cfcee945c85bbc9fcf077a1f7ed",
   "Project": {
     "Id": 1584,
     "DocumentKey": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T09:43:32.9207946Z",
+        "LastUpdatedDate": "2018-07-18T09:44:24.9700719Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,14 +75,62 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-18T09:43:32.920795Z",
+        "LastUpdatedDate": "2018-07-18T09:44:24.9700723Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 274,
+        "Year": 39,
+        "Events": [
+          {
+            "SpecificationCode": 5001,
+            "EventType": 6,
+            "Output": null,
+            "Employment": null,
+            "EmployeeCompensation": 100000.0,
+            "ProprietorIncome": null,
+            "Margins": false,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2765,
+            "ProjectId": 1584,
+            "OwnerId": 0,
+            "Title": "LI",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "Id": 2851,
+        "ProjectId": 1584,
+        "OwnerId": 0,
+        "Title": "group1",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-18T09:44:24.9700727Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
