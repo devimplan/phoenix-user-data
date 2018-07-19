@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "c6d7ded1412ddc7d98ada8c54951a6b19cac1c96",
+  "DocumentKey": "99d2d1ead0675913027b7af8dfead3a692b1c38c",
   "Project": {
     "Id": 1614,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1614,
     "Events": [
       {
-        "SpecificationCode": 65,
+        "SpecificationCode": 1,
         "EventType": 1,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T08:19:03.197511Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.9680406Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -75,7 +75,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T08:19:03.1975115Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.968041Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -102,7 +102,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T08:19:03.1975118Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.9680413Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -129,7 +129,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T08:19:03.1975121Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.9680417Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -138,7 +138,7 @@
     ],
     "Groups": [
       {
-        "ModelId": 284,
+        "ModelId": 299,
         "Year": 39,
         "Events": [
           {
@@ -205,14 +205,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-19T07:49:08.1180204Z",
-        "LastUpdatedDate": "2018-07-19T08:19:03.1975126Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.9680421Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       },
       {
-        "ModelId": 303,
+        "ModelId": 255,
         "Year": 39,
         "Events": [
           {
@@ -306,7 +306,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T08:19:03.1975129Z",
+        "LastUpdatedDate": "2018-07-19T09:25:03.9680424Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
