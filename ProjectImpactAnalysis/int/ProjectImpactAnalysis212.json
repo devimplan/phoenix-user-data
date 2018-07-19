@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "023d6bccaa02cf4bc62d4e151a1227b3ae52d551",
+  "DocumentKey": "2e43fcb42e2586af4aee4b9dac03d7d12b6849de",
   "Project": {
     "Id": 212,
     "DocumentKey": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T12:55:22.7358093Z",
+        "LastUpdatedDate": "2018-07-19T12:58:00.2489546Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -74,7 +74,7 @@
             "LocalPurchasePercentage": 1.0,
             "OverideValidationWarning": false,
             "HouseholdIncome": null,
-            "ScalingFactor": 1,
+            "ScalingFactor": 3,
             "Id": 333,
             "ProjectId": 212,
             "OwnerId": 0,
@@ -91,7 +91,7 @@
           }
         ],
         "AnalysisId": null,
-        "ScalingFactor": 1,
+        "ScalingFactor": 2,
         "Id": 379,
         "ProjectId": 212,
         "OwnerId": 0,
@@ -100,7 +100,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T12:55:22.7358098Z",
+        "LastUpdatedDate": "2018-07-19T12:58:00.2489552Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
