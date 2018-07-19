@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "3d1f0fdc1a8cc758816e6e066d5e6a2267315dd8",
+  "DocumentKey": "eb00118a9042ab868d52eef1368a4a044c9a28dd",
   "Project": {
     "Id": 212,
     "DocumentKey": null,
@@ -49,65 +49,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-17T18:31:48.3850986Z",
+        "LastUpdatedDate": "2018-07-19T04:33:04.9971119Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 261,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 139,
-            "EventType": 1,
-            "Output": 100000000.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "ScalingFactor": 5,
-            "Id": 333,
-            "ProjectId": 212,
-            "OwnerId": 0,
-            "Title": "yesy",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": 14,
-            "CreatedDate": null,
-            "LastUpdatedDate": "2018-07-13T16:37:23.8477614Z",
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "IsScaledFactor": false,
-        "ScalingFactor": 2,
-        "Id": 338,
-        "ProjectId": 212,
-        "OwnerId": 0,
-        "Title": "Minnesota group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 14,
-        "CreatedDate": "2018-07-13T16:33:13.2959191Z",
-        "LastUpdatedDate": "2018-07-17T18:31:48.3852872Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
