@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1623,
+    "DocumentKey": "",
+    "Title": "test",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 23,
+    "UserWhoUpdatedId": 23,
+    "CreatedDate": "2018-07-19T17:30:49",
+    "LastUpdatedDate": "2018-07-19T17:30:49",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1623,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 292,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "Id": 2896,
+        "ProjectId": 1623,
+        "OwnerId": 0,
+        "Title": "Kentucky group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 23,
+        "UserWhoUpdatedId": 23,
+        "CreatedDate": "2018-07-19T17:30:49.6013232Z",
+        "LastUpdatedDate": "2018-07-19T17:30:49.6013237Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
