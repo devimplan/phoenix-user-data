@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "cb0d33885e98f5b55458ba63b22c5b230ea24036",
+  "DocumentKey": "ebc398675f2cb49a3723efb8ed4dc2d36ce4e5a6",
   "Project": {
     "Id": 212,
     "DocumentKey": null,
@@ -49,14 +49,64 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T04:33:08.4881208Z",
+        "LastUpdatedDate": "2018-07-19T04:33:40.4308411Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": null,
+        "Events": [
+          {
+            "SpecificationCode": 139,
+            "EventType": 1,
+            "Output": 100000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": false,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "ScalingFactor": 1,
+            "Id": 333,
+            "ProjectId": 212,
+            "OwnerId": 0,
+            "Title": "yesy",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": 14,
+            "CreatedDate": null,
+            "LastUpdatedDate": "2018-07-17T18:31:48.3850986Z",
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 379,
+        "ProjectId": 212,
+        "OwnerId": 0,
+        "Title": "",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-19T04:33:40.4308416Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
