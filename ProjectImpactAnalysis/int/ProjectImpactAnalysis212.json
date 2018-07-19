@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "89c5c1140f7ed81d336be9feb31d14afc52e1614",
+  "DocumentKey": "5894598fb6c9cb8872c7da00efc342d7bf14c082",
   "Project": {
     "Id": 212,
     "DocumentKey": null,
@@ -49,7 +49,35 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T13:17:29.8397365Z",
+        "LastUpdatedDate": "2018-07-19T15:10:17.0565657Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      },
+      {
+        "SpecificationCode": 139,
+        "EventType": 1,
+        "Output": 100000000.0,
+        "Employment": null,
+        "EmployeeCompensation": null,
+        "ProprietorIncome": null,
+        "Margins": false,
+        "GdpDeflator": null,
+        "OutputDeflator": null,
+        "LocalPurchasePercentage": 1.0,
+        "OverideValidationWarning": false,
+        "HouseholdIncome": null,
+        "ScalingFactor": 1,
+        "Id": 356,
+        "ProjectId": 212,
+        "OwnerId": 0,
+        "Title": "yesy Copy",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 14,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-19T15:10:17.0565696Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -58,7 +86,7 @@
     ],
     "Groups": [
       {
-        "ModelId": null,
+        "ModelId": 0,
         "Year": null,
         "Events": [
           {
@@ -91,7 +119,7 @@
           }
         ],
         "AnalysisId": null,
-        "ScalingFactor": 2,
+        "ScalingFactor": 1,
         "Id": 379,
         "ProjectId": 212,
         "OwnerId": 0,
@@ -100,14 +128,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T13:17:29.839737Z",
+        "LastUpdatedDate": "2018-07-19T15:10:17.0567582Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       },
       {
-        "ModelId": null,
+        "ModelId": 0,
         "Year": null,
         "Events": [],
         "AnalysisId": null,
@@ -120,7 +148,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T13:17:29.8397373Z",
+        "LastUpdatedDate": "2018-07-19T15:10:17.05676Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
