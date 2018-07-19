@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "66e4981919a772fee0221bd242db93faa78bbc0e",
+  "DocumentKey": "791915db3fe707c386aa40c3069eb01af83c3c8b",
   "Project": {
     "Id": 200,
     "DocumentKey": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 10,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-10T18:56:57.0715459Z",
+        "LastUpdatedDate": "2018-07-19T12:20:43.5507515Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -91,7 +91,6 @@
           }
         ],
         "AnalysisId": null,
-        "IsScaledFactor": false,
         "ScalingFactor": 1,
         "Id": 308,
         "ProjectId": 200,
@@ -101,7 +100,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 10,
         "CreatedDate": "2018-07-10T18:56:27.5406798Z",
-        "LastUpdatedDate": "2018-07-10T18:56:57.0715464Z",
+        "LastUpdatedDate": "2018-07-19T12:20:43.5507521Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
