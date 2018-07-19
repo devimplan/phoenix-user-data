@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "ecd5d13595391c4e0bb778bdba3653f5320bcb36",
+  "DocumentKey": "cdb9a318cf777d99a926559eb8c76cbda860e750",
   "Project": {
     "Id": 1608,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1608,
     "Events": [
       {
-        "SpecificationCode": 3001,
+        "SpecificationCode": 3065,
         "EventType": 5,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-19T05:33:47.0827289Z",
+        "LastUpdatedDate": "2018-07-19T06:17:01.4411425Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -97,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-19T05:32:20.966133Z",
-        "LastUpdatedDate": "2018-07-19T05:33:47.0827295Z",
+        "LastUpdatedDate": "2018-07-19T06:17:01.4411431Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
