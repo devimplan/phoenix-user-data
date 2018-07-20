@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "ecc2284488d699675d47f7912f29e6370a9f2ffd",
+  "DocumentKey": "975b665fc3402b7ebd93de875e425c66441002dc",
   "Project": {
     "Id": 1366,
     "DocumentKey": null,
@@ -49,14 +49,35 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 6,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-20T17:15:37.0456602Z",
+        "LastUpdatedDate": "2018-07-20T17:16:08.4871678Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 315,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 2928,
+        "ProjectId": 1366,
+        "OwnerId": 0,
+        "Title": "Cust",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 6,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-20T17:16:08.4871683Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
