@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "a4e895be18b1cd9502fa1a890a0c64f7085ee772",
+  "DocumentKey": "5adbb2c147255f5f7b2a0be4014e8cc224d7d911",
   "Project": {
     "Id": 1624,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1624,
     "Events": [
       {
-        "SpecificationCode": 3417,
+        "SpecificationCode": 3408,
         "EventType": 5,
         "Output": 1000000.0,
         "Employment": null,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-20T05:05:59.7392275Z",
+        "LastUpdatedDate": "2018-07-20T05:06:16.3275488Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -57,9 +57,37 @@
     ],
     "Groups": [
       {
-        "ModelId": 260,
+        "ModelId": 254,
         "Year": 39,
-        "Events": [],
+        "Events": [
+          {
+            "SpecificationCode": 3408,
+            "EventType": 5,
+            "Output": 1000000.0,
+            "Employment": null,
+            "EmployeeCompensation": null,
+            "ProprietorIncome": null,
+            "Margins": null,
+            "GdpDeflator": null,
+            "OutputDeflator": null,
+            "LocalPurchasePercentage": 1.0,
+            "OverideValidationWarning": false,
+            "HouseholdIncome": null,
+            "Id": 2837,
+            "ProjectId": 1624,
+            "OwnerId": 0,
+            "Title": "CO",
+            "DocumentKey": null,
+            "UserWhoCreatedId": null,
+            "UserWhoUpdatedId": null,
+            "CreatedDate": null,
+            "LastUpdatedDate": null,
+            "IsDeleted": false,
+            "DeletedDate": null,
+            "IsArchived": false,
+            "ArchivedDate": null
+          }
+        ],
         "AnalysisId": null,
         "Id": 2897,
         "ProjectId": 1624,
@@ -69,7 +97,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-20T04:57:39.5154003Z",
-        "LastUpdatedDate": "2018-07-20T05:05:59.7392281Z",
+        "LastUpdatedDate": "2018-07-20T05:06:16.3275493Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
