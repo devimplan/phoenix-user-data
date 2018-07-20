@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1651,
+    "DocumentKey": "",
+    "Title": "New Jersey",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 6,
+    "UserWhoUpdatedId": 6,
+    "CreatedDate": "2018-07-20T15:47:57",
+    "LastUpdatedDate": "2018-07-20T15:47:57",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1651,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 310,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 2925,
+        "ProjectId": 1651,
+        "OwnerId": 0,
+        "Title": "New Jersey group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 6,
+        "UserWhoUpdatedId": 6,
+        "CreatedDate": "2018-07-20T15:47:57.9218046Z",
+        "LastUpdatedDate": "2018-07-20T15:47:57.9218052Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
