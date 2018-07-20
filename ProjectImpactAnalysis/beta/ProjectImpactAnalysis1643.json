@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "2fa0c34a850ec853b199108382a426855eeca125",
+  "DocumentKey": "7a8dfba1bdab1c94c590f4b80589a085474d091a",
   "Project": {
     "Id": 1643,
     "DocumentKey": null,
@@ -28,7 +28,7 @@
     "ProjectId": 1643,
     "Events": [
       {
-        "SpecificationCode": 417,
+        "SpecificationCode": 1,
         "EventType": 2,
         "Output": null,
         "Employment": 1000000.0,
@@ -48,7 +48,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-20T11:37:50.9470934Z",
+        "LastUpdatedDate": "2018-07-20T11:39:58.5172464Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -61,7 +61,7 @@
         "Year": 39,
         "Events": [
           {
-            "SpecificationCode": 417,
+            "SpecificationCode": 1,
             "EventType": 2,
             "Output": null,
             "Employment": 1000000.0,
@@ -92,12 +92,12 @@
         "Id": 2916,
         "ProjectId": 1643,
         "OwnerId": 0,
-        "Title": "Nebraska group",
+        "Title": "N-G1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": "2018-07-20T11:37:17.8425957Z",
-        "LastUpdatedDate": "2018-07-20T11:37:50.9470938Z",
+        "LastUpdatedDate": "2018-07-20T11:39:58.5172469Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
