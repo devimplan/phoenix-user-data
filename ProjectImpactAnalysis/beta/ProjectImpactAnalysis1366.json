@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "e89f92408d714895ee9d1f578cadc70304f74db5",
+  "DocumentKey": "4997498b01f84769ea0d00f6d16c2ae815a82c94",
   "Project": {
     "Id": 1366,
     "DocumentKey": null,
@@ -49,64 +49,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 6,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-20T17:15:34.6109435Z",
+        "LastUpdatedDate": "2018-07-20T17:15:36.0922466Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 317,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 65,
-            "EventType": 1,
-            "Output": 1000.0,
-            "Employment": null,
-            "EmployeeCompensation": null,
-            "ProprietorIncome": null,
-            "Margins": null,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "ScalingFactor": 3,
-            "Id": 2425,
-            "ProjectId": 1366,
-            "OwnerId": 0,
-            "Title": "e1",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": 6,
-            "CreatedDate": null,
-            "LastUpdatedDate": "2018-07-20T17:07:29.9520497Z",
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "ScalingFactor": 5,
-        "Id": 2408,
-        "ProjectId": 1366,
-        "OwnerId": 0,
-        "Title": "Washington County",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 6,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-20T17:15:34.6109442Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
