@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1648,
+    "DocumentKey": "",
+    "Title": "NY Test",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 16,
+    "UserWhoUpdatedId": 16,
+    "CreatedDate": "2018-07-20T15:05:20",
+    "LastUpdatedDate": "2018-07-20T15:05:20",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1648,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 2921,
+        "ProjectId": 1648,
+        "OwnerId": 0,
+        "Title": "New York group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 16,
+        "UserWhoUpdatedId": 16,
+        "CreatedDate": "2018-07-20T15:05:20.8494026Z",
+        "LastUpdatedDate": "2018-07-20T15:05:20.849403Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
