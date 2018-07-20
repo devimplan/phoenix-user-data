@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1658,
+    "DocumentKey": "",
+    "Title": "Nm/Co",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 28,
+    "UserWhoUpdatedId": 28,
+    "CreatedDate": "2018-07-20T18:21:34",
+    "LastUpdatedDate": "2018-07-20T18:21:34",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1658,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 2940,
+        "ProjectId": 1658,
+        "OwnerId": 0,
+        "Title": "New Mexico group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 28,
+        "UserWhoUpdatedId": 28,
+        "CreatedDate": "2018-07-20T18:21:34.5332055Z",
+        "LastUpdatedDate": "2018-07-20T18:21:34.5332059Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
