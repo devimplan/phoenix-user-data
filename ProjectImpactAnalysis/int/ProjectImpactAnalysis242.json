@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 242,
+    "DocumentKey": "",
+    "Title": "edg-1.6.1-nc-va-sc",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 10,
+    "UserWhoUpdatedId": 10,
+    "CreatedDate": "2018-07-21T10:36:54",
+    "LastUpdatedDate": "2018-07-21T10:36:54",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 242,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 281,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 431,
+        "ProjectId": 242,
+        "OwnerId": 0,
+        "Title": "North Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 10,
+        "UserWhoUpdatedId": 10,
+        "CreatedDate": "2018-07-21T10:36:54.6537359Z",
+        "LastUpdatedDate": "2018-07-21T10:36:54.6537365Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
