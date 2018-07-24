@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "DocumentKey": "4c96ef9c88a8318726930df64d34050378c0a2f5",
+  "Project": {
+    "Id": 212,
+    "DocumentKey": null,
+    "Title": null,
+    "IndustrySetId": 0,
+    "CommoditySetId": 0,
+    "HouseholdSetId": 0,
+    "OwnerId": 0,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": null,
+    "UserWhoUpdatedId": null,
+    "CreatedDate": null,
+    "LastUpdatedDate": null,
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": null,
+    "ProjectId": 212,
+    "Events": [],
+    "Groups": []
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
