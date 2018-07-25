@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1671,
+    "DocumentKey": "",
+    "Title": "DDE",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 11,
+    "UserWhoUpdatedId": 11,
+    "CreatedDate": "2018-07-25T11:33:01",
+    "LastUpdatedDate": "2018-07-25T11:33:01",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1671,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 291,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 2959,
+        "ProjectId": 1671,
+        "OwnerId": 0,
+        "Title": "South Carolina group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 11,
+        "UserWhoUpdatedId": 11,
+        "CreatedDate": "2018-07-25T11:33:01.9891508Z",
+        "LastUpdatedDate": "2018-07-25T11:33:01.9891513Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
