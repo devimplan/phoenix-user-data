@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "1f874de32447c7ac39f1f6ac5e90a600c1d9530c",
+  "DocumentKey": "19761ea03f7aff097d9e8455de1a841efc0abf0a",
   "Project": {
     "Id": 1679,
     "DocumentKey": null,
@@ -26,36 +26,7 @@
   "Impact": {
     "Name": null,
     "ProjectId": 1679,
-    "Events": [
-      {
-        "SpecificationCode": 65,
-        "EventType": 1,
-        "Output": 100000.0,
-        "Employment": null,
-        "EmployeeCompensation": null,
-        "ProprietorIncome": null,
-        "Margins": null,
-        "GdpDeflator": null,
-        "OutputDeflator": null,
-        "LocalPurchasePercentage": 1.0,
-        "OverideValidationWarning": false,
-        "HouseholdIncome": null,
-        "ScalingFactor": 1,
-        "Id": 2923,
-        "ProjectId": 1679,
-        "OwnerId": 0,
-        "Title": "event1",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T11:14:20.9641938Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ],
+    "Events": [],
     "Groups": [
       {
         "ModelId": 319,
@@ -156,7 +127,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T11:14:20.9641942Z",
+        "LastUpdatedDate": "2018-07-26T11:14:22.3676197Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
