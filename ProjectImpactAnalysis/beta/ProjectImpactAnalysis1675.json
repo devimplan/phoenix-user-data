@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "6722eef5fe7562634958968cb017d73a788a1f6a",
+  "DocumentKey": "b53ce00b07d2fe72190016741aa52d55784f7a11",
   "Project": {
     "Id": 1675,
     "DocumentKey": null,
@@ -27,57 +27,7 @@
     "Name": null,
     "ProjectId": 1675,
     "Events": [],
-    "Groups": [
-      {
-        "ModelId": 355,
-        "Year": 39,
-        "Events": [
-          {
-            "SpecificationCode": 5001,
-            "EventType": 6,
-            "Output": null,
-            "Employment": null,
-            "EmployeeCompensation": 1000000.0,
-            "ProprietorIncome": null,
-            "Margins": false,
-            "GdpDeflator": null,
-            "OutputDeflator": null,
-            "LocalPurchasePercentage": 1.0,
-            "OverideValidationWarning": false,
-            "HouseholdIncome": null,
-            "ScalingFactor": 1,
-            "Id": 2919,
-            "ProjectId": 1675,
-            "OwnerId": 0,
-            "Title": "Evn1",
-            "DocumentKey": null,
-            "UserWhoCreatedId": null,
-            "UserWhoUpdatedId": null,
-            "CreatedDate": null,
-            "LastUpdatedDate": null,
-            "IsDeleted": false,
-            "DeletedDate": null,
-            "IsArchived": false,
-            "ArchivedDate": null
-          }
-        ],
-        "AnalysisId": null,
-        "ScalingFactor": 1,
-        "Id": 2989,
-        "ProjectId": 1675,
-        "OwnerId": 0,
-        "Title": "group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T10:48:24.5515502Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
