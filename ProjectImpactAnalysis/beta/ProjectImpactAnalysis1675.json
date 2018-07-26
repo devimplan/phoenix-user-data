@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "4744103d9ab30794faf6e0f3d91ddce22b1ddd9f",
+  "DocumentKey": "855a7695e0054f20aec82e3b36a8cfe7b8e88cb1",
   "Project": {
     "Id": 1675,
     "DocumentKey": null,
@@ -26,36 +26,7 @@
   "Impact": {
     "Name": null,
     "ProjectId": 1675,
-    "Events": [
-      {
-        "SpecificationCode": 119,
-        "EventType": 4,
-        "Output": null,
-        "Employment": null,
-        "EmployeeCompensation": null,
-        "ProprietorIncome": 500000.0,
-        "Margins": false,
-        "GdpDeflator": null,
-        "OutputDeflator": null,
-        "LocalPurchasePercentage": 1.0,
-        "OverideValidationWarning": false,
-        "HouseholdIncome": null,
-        "ScalingFactor": 1,
-        "Id": 2915,
-        "ProjectId": 1675,
-        "OwnerId": 0,
-        "Title": "twest101",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T09:32:21.5774391Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ],
+    "Events": [],
     "Groups": [
       {
         "ModelId": 355,
@@ -100,7 +71,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T09:32:21.5774396Z",
+        "LastUpdatedDate": "2018-07-26T09:34:38.4088546Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
