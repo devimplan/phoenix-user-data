@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "16ea08cb5811188067d08986f0cc060e3416ea45",
+  "DocumentKey": "633e27ff28d46391dc0c90e3f53b590a2fe8c55d",
   "Project": {
     "Id": 1679,
     "DocumentKey": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T12:20:05.0608052Z",
+        "LastUpdatedDate": "2018-07-26T12:20:18.0911699Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -77,7 +77,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T12:20:05.0608057Z",
+        "LastUpdatedDate": "2018-07-26T12:20:18.0911704Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -105,14 +105,35 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T12:20:05.060806Z",
+        "LastUpdatedDate": "2018-07-26T12:20:18.0911707Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": []
+    "Groups": [
+      {
+        "ModelId": 319,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 3012,
+        "ProjectId": 1679,
+        "OwnerId": 0,
+        "Title": "test",
+        "DocumentKey": null,
+        "UserWhoCreatedId": null,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-26T12:20:18.0911712Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
