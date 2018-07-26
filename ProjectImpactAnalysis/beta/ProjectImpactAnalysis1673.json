@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "396dd5af82389291c642b1828a02187f71446aa9",
+  "DocumentKey": "0fb4365f31a504a1e2e75c4d6c84817e4f756e65",
   "Project": {
     "Id": 1673,
     "DocumentKey": null,
@@ -49,7 +49,7 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T06:41:23.0196879Z",
+        "LastUpdatedDate": "2018-07-26T06:41:56.1058777Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -77,35 +77,14 @@
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-26T06:41:23.0196884Z",
+        "LastUpdatedDate": "2018-07-26T06:41:56.1058781Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
         "ArchivedDate": null
       }
     ],
-    "Groups": [
-      {
-        "ModelId": 0,
-        "Year": 39,
-        "Events": [],
-        "AnalysisId": null,
-        "ScalingFactor": 1,
-        "Id": 2961,
-        "ProjectId": 1673,
-        "OwnerId": 0,
-        "Title": "Arkansas group",
-        "DocumentKey": null,
-        "UserWhoCreatedId": null,
-        "UserWhoUpdatedId": 13,
-        "CreatedDate": "2018-07-26T06:39:48.9119307Z",
-        "LastUpdatedDate": "2018-07-26T06:41:23.0196888Z",
-        "IsDeleted": false,
-        "DeletedDate": null,
-        "IsArchived": false,
-        "ArchivedDate": null
-      }
-    ]
+    "Groups": []
   },
   "IsArchived": false,
   "ArchivedDateTime": null,
