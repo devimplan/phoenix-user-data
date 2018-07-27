@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "ee6a0fedb9a6c020156e457a63bb047264f22f15",
+  "DocumentKey": "0659640efb08838a5af54bc624b8a97318e1379a",
   "Project": {
     "Id": 1680,
     "DocumentKey": null,
@@ -28,9 +28,9 @@
     "ProjectId": 1680,
     "Events": [
       {
-        "SpecificationCode": 0,
-        "EventType": 0,
-        "Output": null,
+        "SpecificationCode": 395,
+        "EventType": 1,
+        "Output": 100000.0,
         "Employment": null,
         "EmployeeCompensation": null,
         "ProprietorIncome": null,
@@ -44,12 +44,12 @@
         "Id": 2974,
         "ProjectId": 1680,
         "OwnerId": 0,
-        "Title": "",
+        "Title": "evn1",
         "DocumentKey": null,
         "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 13,
         "CreatedDate": null,
-        "LastUpdatedDate": "2018-07-27T05:01:00.9432228Z",
+        "LastUpdatedDate": "2018-07-27T05:02:18.7942783Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
