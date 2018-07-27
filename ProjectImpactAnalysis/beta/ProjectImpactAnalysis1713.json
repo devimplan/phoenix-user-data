@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1713,
+    "DocumentKey": "",
+    "Title": "Region Page",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 13,
+    "UserWhoUpdatedId": 13,
+    "CreatedDate": "2018-07-27T07:09:11",
+    "LastUpdatedDate": "2018-07-27T07:09:11",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1713,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": null,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 3061,
+        "ProjectId": 1713,
+        "OwnerId": 0,
+        "Title": "Nebraska group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 13,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-27T07:09:11.1666288Z",
+        "LastUpdatedDate": "2018-07-27T07:09:11.1666293Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
