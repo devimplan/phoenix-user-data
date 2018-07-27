@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "DocumentKey": "",
+  "Project": {
+    "Id": 1714,
+    "DocumentKey": "",
+    "Title": "Results",
+    "IndustrySetId": 2,
+    "CommoditySetId": 1,
+    "HouseholdSetId": 1,
+    "OwnerId": 1,
+    "HasImpacts": false,
+    "HasResults": false,
+    "LastOpened": null,
+    "LastImpactRunId": null,
+    "UserWhoCreatedId": 13,
+    "UserWhoUpdatedId": 13,
+    "CreatedDate": "2018-07-27T07:31:16",
+    "LastUpdatedDate": "2018-07-27T07:31:16",
+    "IsDeleted": false,
+    "DeletedDate": null,
+    "IsArchived": false,
+    "ArchivedDate": null
+  },
+  "Analyses": [],
+  "Impact": {
+    "Name": "Impact from Regions",
+    "ProjectId": 1714,
+    "Events": [],
+    "Groups": [
+      {
+        "ModelId": 254,
+        "Year": 39,
+        "Events": [],
+        "AnalysisId": null,
+        "ScalingFactor": 1,
+        "Id": 3063,
+        "ProjectId": 1714,
+        "OwnerId": 0,
+        "Title": "California group",
+        "DocumentKey": "",
+        "UserWhoCreatedId": 13,
+        "UserWhoUpdatedId": 13,
+        "CreatedDate": "2018-07-27T07:31:16.861136Z",
+        "LastUpdatedDate": "2018-07-27T07:31:16.8611365Z",
+        "IsDeleted": false,
+        "DeletedDate": null,
+        "IsArchived": false,
+        "ArchivedDate": null
+      }
+    ]
+  },
+  "IsArchived": false,
+  "ArchivedDateTime": null,
+  "SharedDatetimes": [],
+  "LastOpenedDate": "0001-01-01T00:00:00"
+}
