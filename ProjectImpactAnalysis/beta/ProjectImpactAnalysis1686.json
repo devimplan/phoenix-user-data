@@ -1,6 +1,6 @@
 {
   "Id": null,
-  "DocumentKey": "",
+  "DocumentKey": "09f9ccfcd553981d3e7d10c1d510122dfeb971a5",
   "Project": {
     "Id": 1686,
     "DocumentKey": null,
@@ -46,10 +46,10 @@
         "OwnerId": 0,
         "Title": "test1",
         "DocumentKey": null,
-        "UserWhoCreatedId": 14,
+        "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
-        "CreatedDate": "2018-07-27T06:46:08.3220878Z",
-        "LastUpdatedDate": "2018-07-27T06:46:08.3220885Z",
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-27T06:59:07.0641241Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
@@ -58,8 +58,8 @@
     ],
     "Groups": [
       {
-        "ModelId": 0,
-        "Year": null,
+        "ModelId": 319,
+        "Year": 39,
         "Events": [
           {
             "SpecificationCode": 10001,
@@ -95,12 +95,12 @@
         "Id": 3053,
         "ProjectId": 1686,
         "OwnerId": 0,
-        "Title": "",
+        "Title": "HouseHold_Wash-MN",
         "DocumentKey": null,
-        "UserWhoCreatedId": 14,
+        "UserWhoCreatedId": null,
         "UserWhoUpdatedId": 14,
-        "CreatedDate": "2018-07-27T06:46:08.3220893Z",
-        "LastUpdatedDate": "2018-07-27T06:46:08.3220897Z",
+        "CreatedDate": null,
+        "LastUpdatedDate": "2018-07-27T06:59:07.0641246Z",
         "IsDeleted": false,
         "DeletedDate": null,
         "IsArchived": false,
